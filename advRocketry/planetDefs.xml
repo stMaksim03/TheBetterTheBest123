@@ -1,74 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <galaxy>
     <star blackHole="false" name="Sol" numGasGiants="0" numPlanets="0" size="1.0" temp="100" x="0" y="0">
-        <planet DIMID="planet-22" name="Sol planet:planet-22">
-            <isKnown>false</isKnown>
-            <fogColor>1.0,1.0,1.0</fogColor>
-            <skyColor>0.8,0.68772423,0.45727128</skyColor>
-            <gravitationalMultiplier>130</gravitationalMultiplier>
-            <orbitalDistance>53</orbitalDistance>
-            <orbitalTheta>176</orbitalTheta>
-            <orbitalPhi>-154</orbitalPhi>
-            <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
-            <avgTemperature>351</avgTemperature>
-            <rotationalPeriod>10923</rotationalPeriod>
-            <atmosphereDensity>3</atmosphereDensity>
-            <generateCraters>true</generateCraters>
-            <generateVolcanos>false</generateVolcanos>
-            <generateStructures>false</generateStructures>
-            <generateGeodes>false</generateGeodes>
-            <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-            <biomeIds>minecraft:moon,minecraft:moon_dark</biomeIds>
-            <planet DIMID="planet-23" name="Sol planet:planet-22: 0">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.7721652,1.0</skyColor>
-                <gravitationalMultiplier>56</gravitationalMultiplier>
-                <orbitalDistance>183</orbitalDistance>
-                <orbitalTheta>-116</orbitalTheta>
-                <orbitalPhi>-43</orbitalPhi>
-                <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
-                <avgTemperature>189</avgTemperature>
-                <rotationalPeriod>136661</rotationalPeriod>
-                <atmosphereDensity>16</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>minecraft:moon,minecraft:moon_dark</biomeIds>
-                <oceanBlock>minecraft:water</oceanBlock>
-                <fillerBlock>minecraft:stone</fillerBlock>
-            </planet>
-            <oceanBlock>minecraft:water</oceanBlock>
-            <fillerBlock>minecraft:stone</fillerBlock>
-        </planet>
-        <planet DIMID="planet-21" name="Sol planet:planet-21">
-            <isKnown>false</isKnown>
-            <fogColor>1.0,1.0,1.0</fogColor>
-            <skyColor>0.8,0.95866084,0.88404614</skyColor>
-            <gravitationalMultiplier>130</gravitationalMultiplier>
-            <orbitalDistance>169</orbitalDistance>
-            <orbitalTheta>-8</orbitalTheta>
-            <orbitalPhi>-112</orbitalPhi>
-            <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
-            <avgTemperature>221</avgTemperature>
-            <rotationalPeriod>10923</rotationalPeriod>
-            <atmosphereDensity>118</atmosphereDensity>
-            <generateCraters>false</generateCraters>
-            <generateVolcanos>false</generateVolcanos>
-            <generateStructures>false</generateStructures>
-            <generateGeodes>false</generateGeodes>
-            <biomeIds>minecraft:snowy_taiga,byg:weeping_witch_forest,byg:the_black_forest,minecraft:deep_ocean,byg:seasonal_birch_forest</biomeIds>
-            <oceanBlock>minecraft:water</oceanBlock>
-            <fillerBlock>minecraft:stone</fillerBlock>
-        </planet>
         <planet DIMID="planet-7" name="Sol planet:planet-7">
             <isKnown>false</isKnown>
             <fogColor>1.0,1.0,1.0</fogColor>
@@ -78,8 +10,8 @@
             <orbitalTheta>-13</orbitalTheta>
             <orbitalPhi>-107</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>1.820919859030554</peakInsolation>
+            <peakInsolationNoAtmosphere>2.454494148337378</peakInsolationNoAtmosphere>
             <avgTemperature>336</avgTemperature>
             <rotationalPeriod>10923</rotationalPeriod>
             <atmosphereDensity>111</atmosphereDensity>
@@ -97,8 +29,8 @@
                 <orbitalTheta>-35</orbitalTheta>
                 <orbitalPhi>-66</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>1.0210449863789106</peakInsolation>
+                <peakInsolationNoAtmosphere>1.100917363766822</peakInsolationNoAtmosphere>
                 <avgTemperature>299</avgTemperature>
                 <rotationalPeriod>192000</rotationalPeriod>
                 <atmosphereDensity>28</atmosphereDensity>
@@ -121,10 +53,10 @@
             <gravitationalMultiplier>130</gravitationalMultiplier>
             <orbitalDistance>188</orbitalDistance>
             <orbitalTheta>48</orbitalTheta>
-            <orbitalPhi>-383</orbitalPhi>
+            <orbitalPhi>-23</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>0.3057378646683226</peakInsolation>
+            <peakInsolationNoAtmosphere>0.37007695977680466</peakInsolationNoAtmosphere>
             <avgTemperature>186</avgTemperature>
             <rotationalPeriod>10923</rotationalPeriod>
             <atmosphereDensity>71</atmosphereDensity>
@@ -146,8 +78,8 @@
             <orbitalTheta>-169</orbitalTheta>
             <orbitalPhi>-205</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>1.9452707061546741</peakInsolation>
+            <peakInsolationNoAtmosphere>1.9452707061546741</peakInsolationNoAtmosphere>
             <avgTemperature>282</avgTemperature>
             <rotationalPeriod>17548</rotationalPeriod>
             <atmosphereDensity>0</atmosphereDensity>
@@ -166,8 +98,8 @@
                 <orbitalTheta>51</orbitalTheta>
                 <orbitalPhi>177</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.8607579505587313</peakInsolation>
+                <peakInsolationNoAtmosphere>0.9083332611454902</peakInsolationNoAtmosphere>
                 <avgTemperature>233</avgTemperature>
                 <rotationalPeriod>473812</rotationalPeriod>
                 <atmosphereDensity>20</atmosphereDensity>
@@ -192,8 +124,8 @@
             <orbitalTheta>41</orbitalTheta>
             <orbitalPhi>-171</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>1.651441115051404</peakInsolation>
+            <peakInsolationNoAtmosphere>1.9935985250723411</peakInsolationNoAtmosphere>
             <avgTemperature>284</avgTemperature>
             <rotationalPeriod>25499</rotationalPeriod>
             <atmosphereDensity>70</atmosphereDensity>
@@ -215,8 +147,8 @@
             <orbitalTheta>112</orbitalTheta>
             <orbitalPhi>-163</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>1.2986412568567274</peakInsolation>
+            <peakInsolationNoAtmosphere>2.2061056920227937</peakInsolationNoAtmosphere>
             <avgTemperature>328</avgTemperature>
             <rotationalPeriod>10923</rotationalPeriod>
             <atmosphereDensity>197</atmosphereDensity>
@@ -235,8 +167,8 @@
                 <orbitalTheta>29</orbitalTheta>
                 <orbitalPhi>32</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.3479270352648477</peakInsolation>
+                <peakInsolationNoAtmosphere>0.36617116536493816</peakInsolationNoAtmosphere>
                 <avgTemperature>186</avgTemperature>
                 <rotationalPeriod>123006</rotationalPeriod>
                 <atmosphereDensity>19</atmosphereDensity>
@@ -259,8 +191,8 @@
                 <orbitalTheta>-158</orbitalTheta>
                 <orbitalPhi>279</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.8109264420932778</peakInsolation>
+                <peakInsolationNoAtmosphere>0.8933815432872615</peakInsolationNoAtmosphere>
                 <avgTemperature>291</avgTemperature>
                 <rotationalPeriod>111111</rotationalPeriod>
                 <atmosphereDensity>36</atmosphereDensity>
@@ -282,8 +214,8 @@
                 <orbitalTheta>146</orbitalTheta>
                 <orbitalPhi>-129</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.6515704627605627</peakInsolation>
+                <peakInsolationNoAtmosphere>0.6968938094170424</peakInsolationNoAtmosphere>
                 <avgTemperature>218</avgTemperature>
                 <rotationalPeriod>56888</rotationalPeriod>
                 <atmosphereDensity>25</atmosphereDensity>
@@ -308,8 +240,8 @@
             <orbitalTheta>-180</orbitalTheta>
             <orbitalPhi>0</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>0.9995093734316032</peakInsolation>
+            <peakInsolationNoAtmosphere>1.308</peakInsolationNoAtmosphere>
             <avgTemperature>287</avgTemperature>
             <rotationalPeriod>24000</rotationalPeriod>
             <atmosphereDensity>100</atmosphereDensity>
@@ -326,8 +258,8 @@
                 <orbitalTheta>-180</orbitalTheta>
                 <orbitalPhi>0</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.5813333333333334</peakInsolation>
+                <peakInsolationNoAtmosphere>0.5813333333333334</peakInsolationNoAtmosphere>
                 <avgTemperature>255</avgTemperature>
                 <rotationalPeriod>128000</rotationalPeriod>
                 <atmosphereDensity>0</atmosphereDensity>
@@ -337,6 +269,166 @@
                 <generateGeodes>false</generateGeodes>
                 <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
                 <biomeIds>minecraft:moon,minecraft:moon_dark</biomeIds>
+                <oceanBlock>minecraft:water</oceanBlock>
+                <fillerBlock>minecraft:stone</fillerBlock>
+            </planet>
+            <oceanBlock>minecraft:water</oceanBlock>
+            <fillerBlock>minecraft:stone</fillerBlock>
+        </planet>
+        <planet DIMID="planet-22" name="Sol planet:planet-22">
+            <isKnown>false</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>0.8,0.68772423,0.45727128</skyColor>
+            <gravitationalMultiplier>130</gravitationalMultiplier>
+            <orbitalDistance>53</orbitalDistance>
+            <orbitalTheta>176</orbitalTheta>
+            <orbitalPhi>-154</orbitalPhi>
+            <retrograde>false</retrograde>
+            <peakInsolation>4.619036834000285</peakInsolation>
+            <peakInsolationNoAtmosphere>4.65646187688069</peakInsolationNoAtmosphere>
+            <avgTemperature>351</avgTemperature>
+            <rotationalPeriod>10923</rotationalPeriod>
+            <atmosphereDensity>3</atmosphereDensity>
+            <generateCraters>true</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+            <biomeIds>minecraft:moon,minecraft:moon_dark</biomeIds>
+            <planet DIMID="planet-23" name="Sol planet:planet-22: 0">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.7721652,1.0</skyColor>
+                <gravitationalMultiplier>56</gravitationalMultiplier>
+                <orbitalDistance>183</orbitalDistance>
+                <orbitalTheta>-116</orbitalTheta>
+                <orbitalPhi>-43</orbitalPhi>
+                <retrograde>false</retrograde>
+                <peakInsolation>0.3741228245575963</peakInsolation>
+                <peakInsolationNoAtmosphere>0.39057599171434376</peakInsolationNoAtmosphere>
+                <avgTemperature>189</avgTemperature>
+                <rotationalPeriod>136661</rotationalPeriod>
+                <atmosphereDensity>16</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>minecraft:moon,minecraft:moon_dark</biomeIds>
+                <oceanBlock>minecraft:water</oceanBlock>
+                <fillerBlock>minecraft:stone</fillerBlock>
+            </planet>
+            <oceanBlock>minecraft:water</oceanBlock>
+            <fillerBlock>minecraft:stone</fillerBlock>
+        </planet>
+        <planet DIMID="planet-21" name="Sol planet:planet-21">
+            <isKnown>false</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>0.8,0.95866084,0.88404614</skyColor>
+            <gravitationalMultiplier>130</gravitationalMultiplier>
+            <orbitalDistance>169</orbitalDistance>
+            <orbitalTheta>-8</orbitalTheta>
+            <orbitalPhi>-112</orbitalPhi>
+            <retrograde>false</retrograde>
+            <peakInsolation>0.33341541547677</peakInsolation>
+            <peakInsolationNoAtmosphere>0.4579671270007342</peakInsolationNoAtmosphere>
+            <avgTemperature>221</avgTemperature>
+            <rotationalPeriod>10923</rotationalPeriod>
+            <atmosphereDensity>118</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <biomeIds>minecraft:snowy_taiga,byg:weeping_witch_forest,byg:the_black_forest,minecraft:deep_ocean,byg:seasonal_birch_forest</biomeIds>
+            <oceanBlock>minecraft:water</oceanBlock>
+            <fillerBlock>minecraft:stone</fillerBlock>
+        </planet>
+        <planet DIMID="planet-10" name="Sol planet:planet-10">
+            <isKnown>false</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>0.8,0.6784937,0.7717515</skyColor>
+            <gravitationalMultiplier>125</gravitationalMultiplier>
+            <orbitalDistance>133</orbitalDistance>
+            <orbitalTheta>-147</orbitalTheta>
+            <orbitalPhi>-97</orbitalPhi>
+            <retrograde>false</retrograde>
+            <peakInsolation>0.4731314150619793</peakInsolation>
+            <peakInsolationNoAtmosphere>0.7394425437215623</peakInsolationNoAtmosphere>
+            <avgTemperature>249</avgTemperature>
+            <rotationalPeriod>12288</rotationalPeriod>
+            <atmosphereDensity>166</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>true</generateGeodes>
+            <geodefrequencyMultiplier>1.0</geodefrequencyMultiplier>
+            <biomeIds>minecraft:mushroom_fields</biomeIds>
+            <planet DIMID="planet-11" name="Sol planet:planet-10: 0">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.51475394,1.0</skyColor>
+                <gravitationalMultiplier>60</gravitationalMultiplier>
+                <orbitalDistance>193</orbitalDistance>
+                <orbitalTheta>-31</orbitalTheta>
+                <orbitalPhi>-153</orbitalPhi>
+                <retrograde>false</retrograde>
+                <peakInsolation>0.33635803753797827</peakInsolation>
+                <peakInsolationNoAtmosphere>0.3511503855393922</peakInsolationNoAtmosphere>
+                <avgTemperature>184</avgTemperature>
+                <rotationalPeriod>111111</rotationalPeriod>
+                <atmosphereDensity>16</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>minecraft:moon,minecraft:moon_dark</biomeIds>
+                <oceanBlock>minecraft:water</oceanBlock>
+                <fillerBlock>minecraft:stone</fillerBlock>
+            </planet>
+            <planet DIMID="planet-13" name="Sol planet:planet-10: 2">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.78996664,0.93198717</skyColor>
+                <gravitationalMultiplier>42</gravitationalMultiplier>
+                <orbitalDistance>151</orbitalDistance>
+                <orbitalTheta>55</orbitalTheta>
+                <orbitalPhi>184</orbitalPhi>
+                <retrograde>false</retrograde>
+                <peakInsolation>0.5349096440438734</peakInsolation>
+                <peakInsolationNoAtmosphere>0.5736590572878093</peakInsolationNoAtmosphere>
+                <avgTemperature>221</avgTemperature>
+                <rotationalPeriod>323939</rotationalPeriod>
+                <atmosphereDensity>26</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>byg:enchanted_forest_hills,byg:zelkova_forest,byg:black_forest_hills,byg:imparius_grove,byg:rose_fields</biomeIds>
+                <oceanBlock>minecraft:water</oceanBlock>
+                <fillerBlock>minecraft:stone</fillerBlock>
+            </planet>
+            <planet DIMID="planet-12" name="Sol planet:planet-10: 1">
+                <isKnown>false</isKnown>
+                <fogColor>1.0,1.0,1.0</fogColor>
+                <skyColor>0.8,0.8532376,0.8182195</skyColor>
+                <gravitationalMultiplier>79</gravitationalMultiplier>
+                <orbitalDistance>115</orbitalDistance>
+                <orbitalTheta>-46</orbitalTheta>
+                <orbitalPhi>186</orbitalPhi>
+                <retrograde>false</retrograde>
+                <peakInsolation>0.8953407649136373</peakInsolation>
+                <peakInsolationNoAtmosphere>0.9890359578336827</peakInsolationNoAtmosphere>
+                <avgTemperature>221</avgTemperature>
+                <rotationalPeriod>48677</rotationalPeriod>
+                <atmosphereDensity>37</atmosphereDensity>
+                <generateCraters>true</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
+                <biomeIds>byg:cherry_blossom_clearing,byg:coral_mangroves,minecraft:mountains,byg:boreal_forest_hills,byg:red_oak_forest</biomeIds>
                 <oceanBlock>minecraft:water</oceanBlock>
                 <fillerBlock>minecraft:stone</fillerBlock>
             </planet>
@@ -353,8 +445,8 @@
             <orbitalTheta>-180</orbitalTheta>
             <orbitalPhi>0</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>0.2609000937324607</peakInsolation>
+            <peakInsolationNoAtmosphere>0.39057599171434376</peakInsolationNoAtmosphere>
             <avgTemperature>212</avgTemperature>
             <rotationalPeriod>24000</rotationalPeriod>
             <atmosphereDensity>150</atmosphereDensity>
@@ -371,8 +463,8 @@
                 <orbitalTheta>110</orbitalTheta>
                 <orbitalPhi>22</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.3602958686993739</peakInsolation>
+                <peakInsolationNoAtmosphere>0.39057599171434376</peakInsolationNoAtmosphere>
                 <avgTemperature>189</avgTemperature>
                 <rotationalPeriod>87391</rotationalPeriod>
                 <atmosphereDensity>30</atmosphereDensity>
@@ -394,8 +486,8 @@
                 <orbitalTheta>-161</orbitalTheta>
                 <orbitalPhi>-30</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.9211441874571895</peakInsolation>
+                <peakInsolationNoAtmosphere>0.972057130852039</peakInsolationNoAtmosphere>
                 <avgTemperature>237</avgTemperature>
                 <rotationalPeriod>437381</rotationalPeriod>
                 <atmosphereDensity>20</atmosphereDensity>
@@ -419,8 +511,8 @@
                 <orbitalTheta>160</orbitalTheta>
                 <orbitalPhi>8</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>1.2381643380137624</peakInsolation>
+                <peakInsolationNoAtmosphere>1.2822272568386526</peakInsolationNoAtmosphere>
                 <avgTemperature>254</avgTemperature>
                 <rotationalPeriod>100701</rotationalPeriod>
                 <atmosphereDensity>13</atmosphereDensity>
@@ -445,8 +537,8 @@
             <orbitalTheta>-128</orbitalTheta>
             <orbitalPhi>-170</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>1.4804835679857307</peakInsolation>
+            <peakInsolationNoAtmosphere>2.2645429931206276</peakInsolationNoAtmosphere>
             <avgTemperature>330</avgTemperature>
             <rotationalPeriod>10923</rotationalPeriod>
             <atmosphereDensity>158</atmosphereDensity>
@@ -465,8 +557,8 @@
                 <orbitalTheta>69</orbitalTheta>
                 <orbitalPhi>-317</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.5291001935928202</peakInsolation>
+                <peakInsolationNoAtmosphere>0.5813333333333334</peakInsolationNoAtmosphere>
                 <avgTemperature>293</avgTemperature>
                 <rotationalPeriod>56888</rotationalPeriod>
                 <atmosphereDensity>35</atmosphereDensity>
@@ -488,8 +580,8 @@
                 <orbitalTheta>-144</orbitalTheta>
                 <orbitalPhi>12</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>1.252971247526678</peakInsolation>
+                <peakInsolationNoAtmosphere>1.3619324750994073</peakInsolationNoAtmosphere>
                 <avgTemperature>293</avgTemperature>
                 <rotationalPeriod>129594</rotationalPeriod>
                 <atmosphereDensity>31</atmosphereDensity>
@@ -500,98 +592,6 @@
                 <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
                 <seaLevel>72</seaLevel>
                 <biomeIds>byg:tropical_islands,minecraft:volcanic_barren,byg:jacaranda_clearing,byg:enchanted_forest,byg:grassland_plateau</biomeIds>
-                <oceanBlock>minecraft:water</oceanBlock>
-                <fillerBlock>minecraft:stone</fillerBlock>
-            </planet>
-            <oceanBlock>minecraft:water</oceanBlock>
-            <fillerBlock>minecraft:stone</fillerBlock>
-        </planet>
-        <planet DIMID="planet-10" name="Sol planet:planet-10">
-            <isKnown>false</isKnown>
-            <fogColor>1.0,1.0,1.0</fogColor>
-            <skyColor>0.8,0.6784937,0.7717515</skyColor>
-            <gravitationalMultiplier>125</gravitationalMultiplier>
-            <orbitalDistance>133</orbitalDistance>
-            <orbitalTheta>-147</orbitalTheta>
-            <orbitalPhi>-97</orbitalPhi>
-            <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
-            <avgTemperature>249</avgTemperature>
-            <rotationalPeriod>12288</rotationalPeriod>
-            <atmosphereDensity>166</atmosphereDensity>
-            <generateCraters>false</generateCraters>
-            <generateVolcanos>false</generateVolcanos>
-            <generateStructures>false</generateStructures>
-            <generateGeodes>true</generateGeodes>
-            <geodefrequencyMultiplier>1.0</geodefrequencyMultiplier>
-            <biomeIds>minecraft:mushroom_fields</biomeIds>
-            <planet DIMID="planet-11" name="Sol planet:planet-10: 0">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.51475394,1.0</skyColor>
-                <gravitationalMultiplier>60</gravitationalMultiplier>
-                <orbitalDistance>193</orbitalDistance>
-                <orbitalTheta>-31</orbitalTheta>
-                <orbitalPhi>-153</orbitalPhi>
-                <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
-                <avgTemperature>184</avgTemperature>
-                <rotationalPeriod>111111</rotationalPeriod>
-                <atmosphereDensity>16</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>minecraft:moon,minecraft:moon_dark</biomeIds>
-                <oceanBlock>minecraft:water</oceanBlock>
-                <fillerBlock>minecraft:stone</fillerBlock>
-            </planet>
-            <planet DIMID="planet-13" name="Sol planet:planet-10: 2">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.78996664,0.93198717</skyColor>
-                <gravitationalMultiplier>42</gravitationalMultiplier>
-                <orbitalDistance>151</orbitalDistance>
-                <orbitalTheta>55</orbitalTheta>
-                <orbitalPhi>184</orbitalPhi>
-                <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
-                <avgTemperature>221</avgTemperature>
-                <rotationalPeriod>323939</rotationalPeriod>
-                <atmosphereDensity>26</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>byg:enchanted_forest_hills,byg:zelkova_forest,byg:black_forest_hills,byg:imparius_grove,byg:rose_fields</biomeIds>
-                <oceanBlock>minecraft:water</oceanBlock>
-                <fillerBlock>minecraft:stone</fillerBlock>
-            </planet>
-            <planet DIMID="planet-12" name="Sol planet:planet-10: 1">
-                <isKnown>false</isKnown>
-                <fogColor>1.0,1.0,1.0</fogColor>
-                <skyColor>0.8,0.8532376,0.8182195</skyColor>
-                <gravitationalMultiplier>79</gravitationalMultiplier>
-                <orbitalDistance>115</orbitalDistance>
-                <orbitalTheta>-46</orbitalTheta>
-                <orbitalPhi>186</orbitalPhi>
-                <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
-                <avgTemperature>221</avgTemperature>
-                <rotationalPeriod>48677</rotationalPeriod>
-                <atmosphereDensity>37</atmosphereDensity>
-                <generateCraters>true</generateCraters>
-                <generateVolcanos>false</generateVolcanos>
-                <generateStructures>false</generateStructures>
-                <generateGeodes>false</generateGeodes>
-                <craterFrequencyMultiplier>1.0</craterFrequencyMultiplier>
-                <biomeIds>byg:cherry_blossom_clearing,byg:coral_mangroves,minecraft:mountains,byg:boreal_forest_hills,byg:red_oak_forest</biomeIds>
                 <oceanBlock>minecraft:water</oceanBlock>
                 <fillerBlock>minecraft:stone</fillerBlock>
             </planet>
@@ -626,7 +626,7 @@
                 <gravitationalMultiplier>77</gravitationalMultiplier>
                 <orbitalDistance>105</orbitalDistance>
                 <orbitalTheta>-46</orbitalTheta>
-                <orbitalPhi>-435</orbitalPhi>
+                <orbitalPhi>-75</orbitalPhi>
                 <retrograde>false</retrograde>
                 <peakInsolation>0.0</peakInsolation>
                 <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
@@ -791,7 +791,7 @@
             <gravitationalMultiplier>130</gravitationalMultiplier>
             <orbitalDistance>77</orbitalDistance>
             <orbitalTheta>24</orbitalTheta>
-            <orbitalPhi>-458</orbitalPhi>
+            <orbitalPhi>-98</orbitalPhi>
             <retrograde>false</retrograde>
             <peakInsolation>0.0</peakInsolation>
             <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
@@ -883,7 +883,7 @@
             <gravitationalMultiplier>99</gravitationalMultiplier>
             <orbitalDistance>132</orbitalDistance>
             <orbitalTheta>-167</orbitalTheta>
-            <orbitalPhi>-433</orbitalPhi>
+            <orbitalPhi>-73</orbitalPhi>
             <retrograde>false</retrograde>
             <peakInsolation>0.0</peakInsolation>
             <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
@@ -910,8 +910,8 @@
             <orbitalTheta>159</orbitalTheta>
             <orbitalPhi>-236</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>559.4616865968409</peakInsolation>
+            <peakInsolationNoAtmosphere>817.5000365450991</peakInsolationNoAtmosphere>
             <avgTemperature>2446</avgTemperature>
             <rotationalPeriod>10923</rotationalPeriod>
             <atmosphereDensity>141</atmosphereDensity>
@@ -931,8 +931,8 @@
                 <orbitalTheta>132</orbitalTheta>
                 <orbitalPhi>118</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.8420470990121747</peakInsolation>
+                <peakInsolationNoAtmosphere>0.8933815432872615</peakInsolationNoAtmosphere>
                 <avgTemperature>395</avgTemperature>
                 <rotationalPeriod>323939</rotationalPeriod>
                 <atmosphereDensity>22</atmosphereDensity>
@@ -957,8 +957,8 @@
             <orbitalTheta>-72</orbitalTheta>
             <orbitalPhi>49</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>1.443109379141957</peakInsolation>
+            <peakInsolationNoAtmosphere>1.7281014475650682</peakInsolationNoAtmosphere>
             <avgTemperature>466</avgTemperature>
             <rotationalPeriod>17082</rotationalPeriod>
             <atmosphereDensity>67</atmosphereDensity>
@@ -978,8 +978,8 @@
                 <orbitalTheta>-165</orbitalTheta>
                 <orbitalPhi>10</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.4108226339534672</peakInsolation>
+                <peakInsolationNoAtmosphere>0.45259513031943915</peakInsolationNoAtmosphere>
                 <avgTemperature>466</avgTemperature>
                 <rotationalPeriod>59226</rotationalPeriod>
                 <atmosphereDensity>36</atmosphereDensity>
@@ -1001,8 +1001,8 @@
                 <orbitalTheta>-116</orbitalTheta>
                 <orbitalPhi>-245</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.33682532866195475</peakInsolation>
+                <peakInsolationNoAtmosphere>0.37007695977680466</peakInsolationNoAtmosphere>
                 <avgTemperature>466</avgTemperature>
                 <rotationalPeriod>180925</rotationalPeriod>
                 <atmosphereDensity>35</atmosphereDensity>
@@ -1022,13 +1022,13 @@
             <isKnown>false</isKnown>
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>0.8,0.65797687,0.33249193</skyColor>
-            <gravitationalMultiplier>117</gravitationalMultiplier>
+            <gravitationalMultiplier>116</gravitationalMultiplier>
             <orbitalDistance>153</orbitalDistance>
             <orbitalTheta>102</orbitalTheta>
             <orbitalPhi>-137</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>0.3917611326633939</peakInsolation>
+            <peakInsolationNoAtmosphere>0.5587594723900569</peakInsolationNoAtmosphere>
             <avgTemperature>395</avgTemperature>
             <rotationalPeriod>14607</rotationalPeriod>
             <atmosphereDensity>132</atmosphereDensity>
@@ -1047,8 +1047,8 @@
                 <orbitalTheta>-131</orbitalTheta>
                 <orbitalPhi>-117</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.9952329950183891</peakInsolation>
+                <peakInsolationNoAtmosphere>1.0616021153204487</peakInsolationNoAtmosphere>
                 <avgTemperature>412</avgTemperature>
                 <rotationalPeriod>48677</rotationalPeriod>
                 <atmosphereDensity>24</atmosphereDensity>
@@ -1074,8 +1074,8 @@
             <orbitalTheta>-141</orbitalTheta>
             <orbitalPhi>-65</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>3.0016661597882286</peakInsolation>
+            <peakInsolationNoAtmosphere>3.6333330445819607</peakInsolationNoAtmosphere>
             <avgTemperature>561</avgTemperature>
             <rotationalPeriod>23294</rotationalPeriod>
             <atmosphereDensity>71</atmosphereDensity>
@@ -1098,8 +1098,8 @@
             <orbitalTheta>-77</orbitalTheta>
             <orbitalPhi>-308</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>0.2779902406863858</peakInsolation>
+            <peakInsolationNoAtmosphere>0.4634354030879383</peakInsolationNoAtmosphere>
             <avgTemperature>377</avgTemperature>
             <rotationalPeriod>10923</rotationalPeriod>
             <atmosphereDensity>190</atmosphereDensity>
@@ -1116,10 +1116,10 @@
                 <gravitationalMultiplier>52</gravitationalMultiplier>
                 <orbitalDistance>143</orbitalDistance>
                 <orbitalTheta>166</orbitalTheta>
-                <orbitalPhi>-367</orbitalPhi>
+                <orbitalPhi>-7</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.6045097608062421</peakInsolation>
+                <peakInsolationNoAtmosphere>0.63964012712324</peakInsolationNoAtmosphere>
                 <avgTemperature>363</avgTemperature>
                 <rotationalPeriod>170687</rotationalPeriod>
                 <atmosphereDensity>21</atmosphereDensity>
@@ -1141,8 +1141,8 @@
                 <orbitalTheta>11</orbitalTheta>
                 <orbitalPhi>-215</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.9636210113853874</peakInsolation>
+                <peakInsolationNoAtmosphere>1.0616021153204487</peakInsolationNoAtmosphere>
                 <avgTemperature>335</avgTemperature>
                 <rotationalPeriod>116857</rotationalPeriod>
                 <atmosphereDensity>36</atmosphereDensity>
@@ -1164,8 +1164,8 @@
                 <orbitalTheta>109</orbitalTheta>
                 <orbitalPhi>-277</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.951595978984047</peakInsolation>
+                <peakInsolationNoAtmosphere>1.0427295829579453</peakInsolationNoAtmosphere>
                 <avgTemperature>335</avgTemperature>
                 <rotationalPeriod>231162</rotationalPeriod>
                 <atmosphereDensity>34</atmosphereDensity>
@@ -1191,8 +1191,8 @@
             <orbitalTheta>167</orbitalTheta>
             <orbitalPhi>-239</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>0.6711470368995578</peakInsolation>
+            <peakInsolationNoAtmosphere>0.9393853176412083</peakInsolationNoAtmosphere>
             <avgTemperature>450</avgTemperature>
             <rotationalPeriod>11444</rotationalPeriod>
             <atmosphereDensity>125</atmosphereDensity>
@@ -1210,8 +1210,8 @@
                 <orbitalTheta>64</orbitalTheta>
                 <orbitalPhi>-90</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.7667692593634966</peakInsolation>
+                <peakInsolationNoAtmosphere>0.7983398794385733</peakInsolationNoAtmosphere>
                 <avgTemperature>384</avgTemperature>
                 <rotationalPeriod>95981</rotationalPeriod>
                 <atmosphereDensity>15</atmosphereDensity>
@@ -1233,8 +1233,8 @@
                 <orbitalTheta>147</orbitalTheta>
                 <orbitalPhi>-260</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.4355208048557803</peakInsolation>
+                <peakInsolationNoAtmosphere>0.4746697824798446</peakInsolationNoAtmosphere>
                 <avgTemperature>400</avgTemperature>
                 <rotationalPeriod>375000</rotationalPeriod>
                 <atmosphereDensity>32</atmosphereDensity>
@@ -1256,8 +1256,8 @@
                 <orbitalTheta>78</orbitalTheta>
                 <orbitalPhi>75</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.4748429071960713</peakInsolation>
+                <peakInsolationNoAtmosphere>0.4983996312680853</peakInsolationNoAtmosphere>
                 <avgTemperature>341</avgTemperature>
                 <rotationalPeriod>404592</rotationalPeriod>
                 <atmosphereDensity>18</atmosphereDensity>
@@ -1285,8 +1285,8 @@
             <orbitalTheta>-90</orbitalTheta>
             <orbitalPhi>-83</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>0.7284472793701282</peakInsolation>
+            <peakInsolationNoAtmosphere>0.7284472793701282</peakInsolationNoAtmosphere>
             <avgTemperature>375</avgTemperature>
             <rotationalPeriod>25499</rotationalPeriod>
             <atmosphereDensity>0</atmosphereDensity>
@@ -1310,8 +1310,8 @@
             <orbitalTheta>25</orbitalTheta>
             <orbitalPhi>-196</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>5.34575183393632</peakInsolation>
+            <peakInsolationNoAtmosphere>6.181474255880615</peakInsolationNoAtmosphere>
             <avgTemperature>377</avgTemperature>
             <rotationalPeriod>29837</rotationalPeriod>
             <atmosphereDensity>54</atmosphereDensity>
@@ -1333,8 +1333,8 @@
             <orbitalTheta>-154</orbitalTheta>
             <orbitalPhi>-75</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>662.751736675396</peakInsolation>
+            <peakInsolationNoAtmosphere>930.1332594129819</peakInsolationNoAtmosphere>
             <avgTemperature>1486</avgTemperature>
             <rotationalPeriod>10923</rotationalPeriod>
             <atmosphereDensity>126</atmosphereDensity>
@@ -1354,8 +1354,8 @@
                 <orbitalTheta>92</orbitalTheta>
                 <orbitalPhi>20</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>7.120150116985036</peakInsolation>
+                <peakInsolationNoAtmosphere>7.7810828246186965</peakInsolationNoAtmosphere>
                 <avgTemperature>1321</avgTemperature>
                 <rotationalPeriod>37732</rotationalPeriod>
                 <atmosphereDensity>33</atmosphereDensity>
@@ -1380,8 +1380,8 @@
             <orbitalTheta>-1</orbitalTheta>
             <orbitalPhi>0</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>5.474395272287253</peakInsolation>
+            <peakInsolationNoAtmosphere>7.2415220851110265</peakInsolationNoAtmosphere>
             <avgTemperature>441</avgTemperature>
             <rotationalPeriod>10923</rotationalPeriod>
             <atmosphereDensity>104</atmosphereDensity>
@@ -1399,8 +1399,8 @@
                 <orbitalTheta>23</orbitalTheta>
                 <orbitalPhi>-65</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>9.157506235969773</peakInsolation>
+                <peakInsolationNoAtmosphere>9.953863792414774</peakInsolationNoAtmosphere>
                 <avgTemperature>392</avgTemperature>
                 <rotationalPeriod>95981</rotationalPeriod>
                 <atmosphereDensity>31</atmosphereDensity>
@@ -1422,8 +1422,8 @@
                 <orbitalTheta>149</orbitalTheta>
                 <orbitalPhi>82</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>19.21621508096842</peakInsolation>
+                <peakInsolationNoAtmosphere>20.115341006042044</peakInsolationNoAtmosphere>
                 <avgTemperature>506</avgTemperature>
                 <rotationalPeriod>95981</rotationalPeriod>
                 <atmosphereDensity>17</atmosphereDensity>
@@ -1447,8 +1447,8 @@
                 <orbitalTheta>-147</orbitalTheta>
                 <orbitalPhi>333</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>5.74806116033958</peakInsolation>
+                <peakInsolationNoAtmosphere>5.984729301172489</peakInsolationNoAtmosphere>
                 <avgTemperature>374</avgTemperature>
                 <rotationalPeriod>59226</rotationalPeriod>
                 <atmosphereDensity>15</atmosphereDensity>
@@ -1547,8 +1547,8 @@
             <orbitalTheta>-13</orbitalTheta>
             <orbitalPhi>-353</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>24.92984279788725</peakInsolation>
+            <peakInsolationNoAtmosphere>36.23268788993004</peakInsolationNoAtmosphere>
             <avgTemperature>660</avgTemperature>
             <rotationalPeriod>11716</rotationalPeriod>
             <atmosphereDensity>139</atmosphereDensity>
@@ -1568,8 +1568,8 @@
                 <orbitalTheta>23</orbitalTheta>
                 <orbitalPhi>-58</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>6.793148113496115</peakInsolation>
+                <peakInsolationNoAtmosphere>7.504034234145224</peakInsolationNoAtmosphere>
                 <avgTemperature>586</avgTemperature>
                 <rotationalPeriod>67055</rotationalPeriod>
                 <atmosphereDensity>37</atmosphereDensity>
@@ -1594,8 +1594,8 @@
             <orbitalTheta>141</orbitalTheta>
             <orbitalPhi>-265</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>9.953863792414774</peakInsolation>
+            <peakInsolationNoAtmosphere>9.953863792414774</peakInsolationNoAtmosphere>
             <avgTemperature>424</avgTemperature>
             <rotationalPeriod>12897</rotationalPeriod>
             <atmosphereDensity>0</atmosphereDensity>
@@ -1615,10 +1615,10 @@
             <gravitationalMultiplier>130</gravitationalMultiplier>
             <orbitalDistance>157</orbitalDistance>
             <orbitalTheta>-8</orbitalTheta>
-            <orbitalPhi>-382</orbitalPhi>
+            <orbitalPhi>-22</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>5.595720838937372</peakInsolation>
+            <peakInsolationNoAtmosphere>8.490404722964056</peakInsolationNoAtmosphere>
             <avgTemperature>459</avgTemperature>
             <rotationalPeriod>10923</rotationalPeriod>
             <atmosphereDensity>155</atmosphereDensity>
@@ -1638,8 +1638,8 @@
                 <orbitalTheta>155</orbitalTheta>
                 <orbitalPhi>-75</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>7.3632324533027855</peakInsolation>
+                <peakInsolationNoAtmosphere>7.687052563747631</peakInsolationNoAtmosphere>
                 <avgTemperature>398</avgTemperature>
                 <rotationalPeriod>129594</rotationalPeriod>
                 <atmosphereDensity>16</atmosphereDensity>
@@ -1661,8 +1661,8 @@
                 <orbitalTheta>-168</orbitalTheta>
                 <orbitalPhi>-60</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>7.718982083118979</peakInsolation>
+                <peakInsolationNoAtmosphere>8.278153206488707</peakInsolationNoAtmosphere>
                 <avgTemperature>408</avgTemperature>
                 <rotationalPeriod>48677</rotationalPeriod>
                 <atmosphereDensity>26</atmosphereDensity>
@@ -1684,8 +1684,8 @@
                 <orbitalTheta>-20</orbitalTheta>
                 <orbitalPhi>-236</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>18.090720410977738</peakInsolation>
+                <peakInsolationNoAtmosphere>19.34911384547801</peakInsolationNoAtmosphere>
                 <avgTemperature>501</avgTemperature>
                 <rotationalPeriod>161206</rotationalPeriod>
                 <atmosphereDensity>25</atmosphereDensity>
@@ -1711,8 +1711,8 @@
             <orbitalTheta>-114</orbitalTheta>
             <orbitalPhi>-231</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>6.862115912297048</peakInsolation>
+            <peakInsolationNoAtmosphere>6.9925488785231344</peakInsolationNoAtmosphere>
             <avgTemperature>389</avgTemperature>
             <rotationalPeriod>27992</rotationalPeriod>
             <atmosphereDensity>7</atmosphereDensity>
@@ -1735,8 +1735,8 @@
             <orbitalTheta>90</orbitalTheta>
             <orbitalPhi>-122</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>31.394344293519723</peakInsolation>
+            <peakInsolationNoAtmosphere>46.620625879688205</peakInsolationNoAtmosphere>
             <avgTemperature>703</avgTemperature>
             <rotationalPeriod>17548</rotationalPeriod>
             <atmosphereDensity>147</atmosphereDensity>
@@ -1756,8 +1756,8 @@
                 <orbitalTheta>37</orbitalTheta>
                 <orbitalPhi>-168</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>15.682773742889877</peakInsolation>
+                <peakInsolationNoAtmosphere>16.683673327327124</peakInsolationNoAtmosphere>
                 <avgTemperature>483</avgTemperature>
                 <rotationalPeriod>281743</rotationalPeriod>
                 <atmosphereDensity>23</atmosphereDensity>
@@ -1780,8 +1780,8 @@
                 <orbitalTheta>-146</orbitalTheta>
                 <orbitalPhi>7</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>10.082932912339055</peakInsolation>
+                <peakInsolationNoAtmosphere>10.989288040656787</peakInsolationNoAtmosphere>
                 <avgTemperature>625</avgTemperature>
                 <rotationalPeriod>91552</rotationalPeriod>
                 <atmosphereDensity>32</atmosphereDensity>
@@ -1803,8 +1803,8 @@
                 <orbitalTheta>144</orbitalTheta>
                 <orbitalPhi>-172</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>7.328590456427942</peakInsolation>
+                <peakInsolationNoAtmosphere>8.073762442846558</peakInsolationNoAtmosphere>
                 <avgTemperature>625</avgTemperature>
                 <rotationalPeriod>559766</rotationalPeriod>
                 <atmosphereDensity>36</atmosphereDensity>
@@ -1829,8 +1829,8 @@
             <orbitalTheta>91</orbitalTheta>
             <orbitalPhi>45</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>85.44914239098392</peakInsolation>
+            <peakInsolationNoAtmosphere>118.6394631905122</peakInsolationNoAtmosphere>
             <avgTemperature>888</avgTemperature>
             <rotationalPeriod>24734</rotationalPeriod>
             <atmosphereDensity>122</atmosphereDensity>
@@ -1855,8 +1855,8 @@
             <orbitalTheta>-138</orbitalTheta>
             <orbitalPhi>-62</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>0.38226286009569804</peakInsolation>
+            <peakInsolationNoAtmosphere>0.5661357482801569</peakInsolationNoAtmosphere>
             <avgTemperature>280</avgTemperature>
             <rotationalPeriod>10923</rotationalPeriod>
             <atmosphereDensity>146</atmosphereDensity>
@@ -1878,8 +1878,8 @@
             <orbitalTheta>-121</orbitalTheta>
             <orbitalPhi>-30</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>0.7940960982443674</peakInsolation>
+            <peakInsolationNoAtmosphere>1.3345576724822765</peakInsolationNoAtmosphere>
             <avgTemperature>347</avgTemperature>
             <rotationalPeriod>27992</rotationalPeriod>
             <atmosphereDensity>193</atmosphereDensity>
@@ -1902,8 +1902,8 @@
             <orbitalTheta>-180</orbitalTheta>
             <orbitalPhi>0</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>0.18878762559275336</peakInsolation>
+            <peakInsolationNoAtmosphere>0.2803497719584846</peakInsolationNoAtmosphere>
             <avgTemperature>235</avgTemperature>
             <rotationalPeriod>24000</rotationalPeriod>
             <atmosphereDensity>147</atmosphereDensity>
@@ -1918,10 +1918,10 @@
                 <gravitationalMultiplier>49</gravitationalMultiplier>
                 <orbitalDistance>105</orbitalDistance>
                 <orbitalTheta>-151</orbitalTheta>
-                <orbitalPhi>-412</orbitalPhi>
+                <orbitalPhi>-52</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>1.08854529759624</peakInsolation>
+                <peakInsolationNoAtmosphere>1.1863946655787574</peakInsolationNoAtmosphere>
                 <avgTemperature>208</avgTemperature>
                 <rotationalPeriod>203996</rotationalPeriod>
                 <atmosphereDensity>32</atmosphereDensity>
@@ -1940,11 +1940,11 @@
                 <skyColor>0.8,0.81958675,0.8335805</skyColor>
                 <gravitationalMultiplier>82</gravitationalMultiplier>
                 <orbitalDistance>172</orbitalDistance>
-                <orbitalTheta>49</orbitalTheta>
+                <orbitalTheta>48</orbitalTheta>
                 <orbitalPhi>-136</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.40566557655226526</peakInsolation>
+                <peakInsolationNoAtmosphere>0.44213086684891767</peakInsolationNoAtmosphere>
                 <avgTemperature>208</avgTemperature>
                 <rotationalPeriod>43528</rotationalPeriod>
                 <atmosphereDensity>32</atmosphereDensity>
@@ -1966,8 +1966,8 @@
                 <orbitalTheta>-68</orbitalTheta>
                 <orbitalPhi>-187</orbitalPhi>
                 <retrograde>false</retrograde>
-                <peakInsolation>0.0</peakInsolation>
-                <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+                <peakInsolation>0.8087480621822359</peakInsolation>
+                <peakInsolationNoAtmosphere>0.8933815432872615</peakInsolationNoAtmosphere>
                 <avgTemperature>208</avgTemperature>
                 <rotationalPeriod>59226</rotationalPeriod>
                 <atmosphereDensity>37</atmosphereDensity>
@@ -1992,8 +1992,8 @@
             <orbitalTheta>0</orbitalTheta>
             <orbitalPhi>-213</orbitalPhi>
             <retrograde>false</retrograde>
-            <peakInsolation>0.0</peakInsolation>
-            <peakInsolationNoAtmosphere>0.0</peakInsolationNoAtmosphere>
+            <peakInsolation>0.2855731439447881</peakInsolation>
+            <peakInsolationNoAtmosphere>0.31124332203428334</peakInsolationNoAtmosphere>
             <avgTemperature>214</avgTemperature>
             <rotationalPeriod>10923</rotationalPeriod>
             <atmosphereDensity>32</atmosphereDensity>
