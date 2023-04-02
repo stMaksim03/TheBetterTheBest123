@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2023-04-02 22:39:12 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2023-04-01 20:48:25 +0300"
@@ -308,6 +314,12 @@
   "tconstruct:recipes/tconstruct/general/tables/crafting_station_from_logs": {
     "criteria": {
       "has_item": "2023-04-01 22:35:02 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2023-04-02 22:13:10 +0300"
     },
     "done": true
   },
@@ -524,6 +536,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2023-04-01 21:22:00 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2023-04-02 22:39:20 +0300"
     },
     "done": true
   },
@@ -759,15 +777,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2023-04-02 19:51:35 +0300"
-    },
-    "done": true
-  },
   "minecolonies:recipes/minecolonies/blockhutfarmerstone": {
     "criteria": {
       "has_items": "2023-04-02 19:37:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2023-04-02 19:51:35 +0300"
     },
     "done": true
   },
@@ -1022,6 +1040,12 @@
   "tconstruct:recipes/tconstruct/general/tables/crafting_station": {
     "criteria": {
       "has_item": "2023-04-01 22:35:02 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2023-04-02 22:13:10 +0300"
     },
     "done": true
   },
@@ -1298,6 +1322,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2023-04-01 21:06:26 +0300"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2023-04-02 23:03:39 +0300"
     },
     "done": true
   },
@@ -1847,6 +1877,12 @@
     },
     "done": true
   },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2023-04-02 23:02:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2023-04-01 21:22:00 +0300"
@@ -1935,7 +1971,10 @@
     "criteria": {
       "large_plate": "2023-04-02 01:30:35 +0300",
       "tough_handle": "2023-04-02 18:17:45 +0300",
+      "tool_binding": "2023-04-02 21:40:55 +0300",
+      "broad_axe_head": "2023-04-02 21:40:55 +0300",
       "broad_blade": "2023-04-02 18:18:16 +0300",
+      "pickaxe_head": "2023-04-02 21:40:55 +0300",
       "ingot": "2023-04-02 16:24:28 +0300"
     },
     "done": false
@@ -2000,7 +2039,8 @@
       "baked_potato": "2023-04-02 15:36:56 +0300",
       "apple": "2023-04-02 00:43:37 +0300",
       "cooked_cod": "2023-04-01 22:08:06 +0300",
-      "bread": "2023-04-01 22:08:03 +0300"
+      "bread": "2023-04-01 22:08:03 +0300",
+      "rotten_flesh": "2023-04-02 21:32:03 +0300"
     },
     "done": false
   },
@@ -2136,6 +2176,12 @@
     },
     "done": true
   },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2023-04-02 23:02:13 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/diorite_pillar": {
     "criteria": {
       "has_diorite": "2023-04-01 21:06:46 +0300"
@@ -2223,6 +2269,12 @@
   "create:recipes/create.palettes/overgrown_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-04-02 00:56:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2023-04-02 22:39:12 +0300"
     },
     "done": true
   },
@@ -2646,6 +2698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2023-04-02 22:13:10 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-01 21:48:44 +0300"
@@ -2733,6 +2791,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2023-04-01 21:41:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2023-04-02 22:39:12 +0300"
     },
     "done": true
   },
@@ -3277,6 +3341,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2023-04-01 21:30:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2023-04-02 21:49:56 +0300"
     },
     "done": true
   },

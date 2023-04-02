@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/limestone_cobblestone_stairs": {
+    "criteria": {
+      "has_limestone_cobblestone": "2023-04-02 22:00:20 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2023-04-01 21:56:39 +0300"
@@ -323,6 +329,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/world/wood/greenheart/log_to_wood": {
+    "criteria": {
+      "has_log": "2023-04-02 22:09:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2023-04-01 23:10:38 +0300"
@@ -413,6 +425,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/limestone_cobblestone_wall_from_limestone_cobblestone_stonecutting": {
+    "criteria": {
+      "has_limestone_cobblestone": "2023-04-02 22:00:20 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2023-04-01 22:02:01 +0300"
@@ -440,6 +458,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-02 18:34:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2023-04-02 21:30:14 +0300"
     },
     "done": true
   },
@@ -478,6 +502,12 @@
       "has_iron": "2023-04-01 21:57:43 +0300"
     },
     "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2023-04-02 22:08:09 +0300"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
@@ -539,6 +569,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2023-04-02 22:08:09 +0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2023-04-01 23:17:37 +0300",
@@ -553,6 +589,12 @@
   "create:recipes/create.palettes/smelting/scoria": {
     "criteria": {
       "has_item": "2023-04-02 17:20:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2023-04-02 21:30:14 +0300"
     },
     "done": true
   },
@@ -820,6 +862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2023-04-02 21:30:14 +0300"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/copper_can": {
     "criteria": {
       "has_item": "2023-04-01 22:51:58 +0300"
@@ -928,6 +976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2023-04-02 21:30:13 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_pillar": {
     "criteria": {
       "has_granite": "2023-04-02 15:17:04 +0300"
@@ -979,6 +1033,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2023-04-02 14:02:55 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/limestone": {
+    "criteria": {
+      "has_limestone_cobblestone": "2023-04-02 22:00:20 +0300"
     },
     "done": true
   },
@@ -1042,9 +1102,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/limestone_cobblestone_slab_from_limestone_cobblestone_stonecutting": {
+    "criteria": {
+      "has_limestone_cobblestone": "2023-04-02 22:00:20 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2023-04-01 22:01:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-04-02 22:08:09 +0300"
     },
     "done": true
   },
@@ -1254,6 +1326,7 @@
   "tconstruct:tools/material_master": {
     "criteria": {
       "slimewood": "2023-04-02 18:34:40 +0300",
+      "stone": "2023-04-02 22:37:55 +0300",
       "iron": "2023-04-02 18:34:39 +0300"
     },
     "done": false
@@ -1267,6 +1340,12 @@
   "create:recipes/create.base/crafting/materials/copper_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2023-04-01 22:51:58 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/limestone_cobblestone_slab": {
+    "criteria": {
+      "has_limestone_cobblestone": "2023-04-02 22:00:20 +0300"
     },
     "done": true
   },
@@ -1291,6 +1370,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2023-04-01 22:01:28 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-04-02 22:08:09 +0300"
     },
     "done": true
   },
@@ -1498,6 +1583,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/world/wood/greenheart/planks": {
+    "criteria": {
+      "has_log": "2023-04-02 22:09:21 +0300"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2023-04-02 22:56:09 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2023-04-01 22:11:48 +0300"
@@ -1657,6 +1754,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-04-02 22:08:09 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2023-04-01 21:58:22 +0300"
@@ -1705,6 +1808,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/earth": {
+    "criteria": {
+      "has_item": "2023-04-02 22:08:09 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2023-04-01 21:54:41 +0300"
@@ -1714,6 +1823,12 @@
   "create:recipes/create.base/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2023-04-01 22:36:38 +0300"
+    },
+    "done": true
+  },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2023-04-02 23:08:03 +0300"
     },
     "done": true
   },
@@ -1750,6 +1865,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2023-04-01 22:09:40 +0300"
+    },
+    "done": true
+  },
+  "create:its_alive": {
+    "criteria": {
+      "0": "2023-04-02 22:42:50 +0300"
     },
     "done": true
   },
@@ -2119,6 +2240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2023-04-02 22:08:09 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2023-04-02 18:34:09 +0300"
@@ -2242,6 +2369,12 @@
   "minecolonies:recipes/minecolonies/blockhutarchery": {
     "criteria": {
       "has_items": "2023-04-02 18:31:58 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/limestone_cobblestone_wall": {
+    "criteria": {
+      "has_limestone_cobblestone": "2023-04-02 22:00:20 +0300"
     },
     "done": true
   },
@@ -2419,6 +2552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-04-02 22:08:09 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2023-04-02 14:02:55 +0300"
@@ -2476,6 +2615,12 @@
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2023-04-01 22:51:58 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/limestone_cobblestone_stairs_from_limestone_cobblestone_stonecutting": {
+    "criteria": {
+      "has_limestone_cobblestone": "2023-04-02 22:00:20 +0300"
     },
     "done": true
   },
@@ -2737,6 +2882,12 @@
   "create:recipes/create.base/smelting/copper_ingot_from_ore": {
     "criteria": {
       "has_item": "2023-04-01 22:20:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tconstruct/general/tools/modifiers/slime_crystal/earth": {
+    "criteria": {
+      "has_item": "2023-04-02 22:08:09 +0300"
     },
     "done": true
   },

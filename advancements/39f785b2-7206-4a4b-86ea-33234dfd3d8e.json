@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2023-04-02 22:05:26 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2023-04-02 16:36:54 +0300"
@@ -107,6 +113,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2023-04-02 22:42:58 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2023-04-02 22:59:04 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2023-04-02 16:31:07 +0300"
@@ -179,9 +197,21 @@
     },
     "done": true
   },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2023-04-02 23:08:16 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2023-04-02 17:27:04 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2023-04-02 22:59:04 +0300"
     },
     "done": true
   },
@@ -218,6 +248,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2023-04-02 17:27:04 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/fancy_scoria_bricks_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2023-04-02 22:59:04 +0300"
     },
     "done": true
   },
@@ -269,6 +305,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/chiseled_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2023-04-02 22:59:04 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2023-04-02 16:22:55 +0300"
@@ -284,8 +326,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2023-04-02 16:18:50 +0300",
+      "baked_potato": "2023-04-02 22:05:10 +0300",
       "tropical_fish": "2023-04-02 19:12:21 +0300",
       "cooked_cod": "2023-04-02 19:24:12 +0300",
+      "cookie": "2023-04-02 22:20:10 +0300",
       "dried_kelp": "2023-04-02 17:32:21 +0300",
       "salmon": "2023-04-02 19:12:30 +0300"
     },
@@ -345,6 +389,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-04-02 21:59:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2023-04-02 23:11:30 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2023-04-02 16:36:54 +0300"
@@ -372,6 +428,12 @@
   "create:recipes/create.palettes/gabbro_cobblestone_wall": {
     "criteria": {
       "has_gabbro_cobblestone": "2023-04-02 17:09:08 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/scoria_pillar_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2023-04-02 22:59:04 +0300"
     },
     "done": true
   },
@@ -417,6 +479,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/slimesling/earth": {
+    "criteria": {
+      "has_item": "2023-04-02 21:59:22 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-04-02 16:14:46 +0300"
@@ -432,6 +500,12 @@
   "create:recipes/create.base/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2023-04-02 16:57:01 +0300"
+    },
+    "done": true
+  },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2023-04-02 22:44:42 +0300"
     },
     "done": true
   },
@@ -459,6 +533,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2023-04-02 22:42:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2023-04-02 22:42:58 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2023-04-02 16:22:55 +0300"
@@ -480,6 +566,12 @@
   "create:its_alive": {
     "criteria": {
       "0": "2023-04-02 16:25:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2023-04-02 22:05:26 +0300"
     },
     "done": true
   },
@@ -530,6 +622,12 @@
       "has_andesite": "2023-04-02 16:48:03 +0300"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2023-04-02 22:43:56 +0300"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -729,6 +827,12 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2023-04-02 21:59:22 +0300"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2023-04-02 16:22:55 +0300"
@@ -777,6 +881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2023-04-02 22:42:58 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2023-04-02 16:36:54 +0300"
@@ -786,6 +896,18 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2023-04-02 17:22:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2023-04-02 22:05:26 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/scoria_pillar": {
+    "criteria": {
+      "has_scoria": "2023-04-02 22:59:04 +0300"
     },
     "done": true
   },
@@ -819,6 +941,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/earth/congealed": {
+    "criteria": {
+      "has_item": "2023-04-02 21:59:22 +0300"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/supplycampdeployer": {
     "criteria": {
       "has_chest": "2023-04-02 16:45:23 +0300"
@@ -835,6 +963,8 @@
     "criteria": {
       "minecraft:pillager": "2023-04-02 19:19:07 +0300",
       "minecraft:skeleton": "2023-04-02 17:06:18 +0300",
+      "minecraft:spider": "2023-04-02 21:57:35 +0300",
+      "minecraft:slime": "2023-04-02 21:59:14 +0300",
       "minecraft:zombie": "2023-04-02 17:28:19 +0300"
     },
     "done": false
@@ -881,6 +1011,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_the_recipe": "2023-04-02 22:03:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2023-04-02 22:42:58 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2023-04-02 17:38:49 +0300"
@@ -896,6 +1038,12 @@
   "create:recipes/create.base/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2023-04-02 17:22:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2023-04-02 21:59:22 +0300"
     },
     "done": true
   },
@@ -1055,6 +1203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2023-04-02 22:05:26 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2023-04-02 17:27:04 +0300"
@@ -1070,6 +1224,12 @@
   "create:recipes/create.base/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2023-04-02 16:57:01 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/mossy_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2023-04-02 22:59:04 +0300"
     },
     "done": true
   },
@@ -1103,6 +1263,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scoria_cobblestone_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2023-04-02 22:59:04 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2023-04-02 16:30:42 +0300"
@@ -1124,6 +1290,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2023-04-02 17:38:49 +0300"
+    },
+    "done": true
+  },
+  "structurize:recipes/structurize/white_floating_carpet": {
+    "criteria": {
+      "has_white_floating_carpet": "2023-04-02 22:45:26 +0300"
     },
     "done": true
   },
@@ -1184,6 +1356,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2023-04-02 16:36:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2023-04-02 23:11:30 +0300"
     },
     "done": true
   },
@@ -1253,9 +1431,33 @@
     },
     "done": true
   },
+  "structurize:recipes/structurize/white_floating_carpet_dye": {
+    "criteria": {
+      "can_dye_white_floating_carpet": "2023-04-02 22:45:26 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2023-04-02 16:30:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-04-02 21:59:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2023-04-02 23:11:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2023-04-02 22:05:26 +0300"
     },
     "done": true
   },
@@ -1385,6 +1587,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scoria_bricks_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2023-04-02 22:59:04 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_pillar": {
     "criteria": {
       "has_andesite": "2023-04-02 16:48:03 +0300"
@@ -1418,6 +1626,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_helmet": "2023-04-02 16:23:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2023-04-02 22:42:58 +0300"
     },
     "done": true
   },
@@ -1469,6 +1683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-04-02 21:59:22 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/overgrown_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-04-02 18:36:13 +0300"
@@ -1508,6 +1728,12 @@
   "create:recipes/create.palettes/gabbro_cobblestone_wall_from_gabbro_cobblestone_stonecutting": {
     "criteria": {
       "has_gabbro_cobblestone": "2023-04-02 17:09:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2023-04-02 22:42:58 +0300"
     },
     "done": true
   },
@@ -1572,6 +1798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2023-04-02 22:05:25 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2023-04-02 16:36:54 +0300"
@@ -1590,9 +1822,33 @@
     },
     "done": true
   },
+  "createautomated:recipes/createautomated/picker": {
+    "criteria": {
+      "has_string": "2023-04-02 22:05:26 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_cobblestone_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-04-02 16:52:30 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "cleaver": "2023-04-02 23:10:14 +0300"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2023-04-02 22:43:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2023-04-02 22:42:58 +0300"
     },
     "done": true
   },
@@ -1722,6 +1978,12 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2023-04-02 23:10:14 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2023-04-02 18:03:12 +0300"
@@ -1764,6 +2026,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2023-04-02 22:43:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2023-04-02 17:22:23 +0300"
@@ -1775,6 +2043,18 @@
       "has_iron_ingot": "2023-04-02 16:22:55 +0300"
     },
     "done": true
+  },
+  "create:recipes/create.palettes/layered_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2023-04-02 22:59:04 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "stone": "2023-04-02 23:10:14 +0300"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/dolomite_cobblestone_wall_from_dolomite_cobblestone_stonecutting": {
     "criteria": {
@@ -1800,6 +2080,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tconstruct/general/tools/modifiers/slime_crystal/earth": {
+    "criteria": {
+      "has_item": "2023-04-02 21:59:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2023-04-02 22:42:58 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_scoria": {
+    "criteria": {
+      "has_scoria": "2023-04-02 22:59:03 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_leggings": "2023-04-02 18:56:53 +0300"
@@ -1815,6 +2113,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2023-04-02 18:36:13 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-04-02 21:59:22 +0300"
     },
     "done": true
   },
@@ -1839,6 +2143,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2023-04-02 16:32:35 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/palettes/dark_scoria": {
+    "criteria": {
+      "has_item": "2023-04-02 22:59:04 +0300"
     },
     "done": true
   },
@@ -1881,6 +2191,12 @@
   "create:recipes/create.palettes/smelting/gabbro": {
     "criteria": {
       "has_item": "2023-04-02 16:52:30 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/overgrown_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2023-04-02 22:59:04 +0300"
     },
     "done": true
   },

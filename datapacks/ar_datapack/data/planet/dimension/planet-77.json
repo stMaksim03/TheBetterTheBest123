@@ -17,52 +17,12 @@
           "seed": 0,
           "biomes": [
 	    {
-              "biome": "byg:blue_giant_taiga",
+              "biome": "minecraft:mushroom_fields",
               "parameters": {
                 "altitude": 0.30650806,
-		"humidity": 0.8,
-                "temperature": 0.25,				
-                "weirdness": 0.2,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "byg:great_lake_isles",
-              "parameters": {
-                "altitude": 0.4057547,
-		"humidity": 0.2,
-                "temperature": 0.8,				
-                "weirdness": 0.15,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "byg:enchanted_grove",
-              "parameters": {
-                "altitude": 0.016404748,
-		"humidity": 0.8,
-                "temperature": 0.75,				
-                "weirdness": 0.1,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "byg:allium_fields",
-              "parameters": {
-                "altitude": 0.13676673,
-		"humidity": 0.4,
-                "temperature": 0.8,				
-                "weirdness": 0.05,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "byg:redwood_clearing",
-              "parameters": {
-                "altitude": 0.9041739,
-		"humidity": 0.9,
+		"humidity": 1.0,
                 "temperature": 0.9,				
-                "weirdness": 0.05,
+                "weirdness": 0.3,
                 "offset": 0
               }
             }
