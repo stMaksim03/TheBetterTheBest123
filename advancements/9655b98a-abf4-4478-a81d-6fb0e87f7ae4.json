@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/brewing/common/slime/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2023-04-04 22:29:24 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2023-04-01 20:48:21 +0300"
@@ -185,9 +191,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2023-04-04 22:08:18 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2023-04-01 20:48:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2023-04-04 22:20:11 +0300"
     },
     "done": true
   },
@@ -668,6 +686,7 @@
   "tconstruct:world/slime_collector": {
     "criteria": {
       "sky": "2023-04-02 16:05:02 +0300",
+      "magma_cream": "2023-04-04 22:08:18 +0300",
       "earth": "2023-04-02 16:04:54 +0300"
     },
     "done": false
@@ -787,6 +806,12 @@
   "create:recipes/create.palettes/smelting/scoria": {
     "criteria": {
       "has_item": "2023-04-02 17:26:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2023-04-04 22:29:24 +0300"
     },
     "done": true
   },
@@ -1242,6 +1267,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/nether_grout": {
+    "criteria": {
+      "has_item": "2023-04-04 22:08:18 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2023-04-03 23:03:13 +0300"
@@ -1497,6 +1528,12 @@
   "minecraft:recipes/decorations/green_carpet": {
     "criteria": {
       "has_green_wool": "2023-04-03 23:08:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2023-04-04 22:29:24 +0300"
     },
     "done": true
   },
@@ -1833,6 +1870,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2023-04-01 20:53:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2023-04-04 22:29:24 +0300"
     },
     "done": true
   },
