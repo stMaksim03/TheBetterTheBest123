@@ -17,9 +17,19 @@
           "seed": 0,
           "biomes": [
 	    {
-              "biome": "byg:magma_wastes",
+              "biome": "minecraft:dark_forest_hills",
               "parameters": {
                 "altitude": 0.30650806,
+		"humidity": 0.8,
+                "temperature": 0.7,				
+                "weirdness": 0.4,
+                "offset": 0
+              }
+            },
+	    {
+              "biome": "byg:shattered_desert_isles",
+              "parameters": {
+                "altitude": 0.4057547,
 		"humidity": 0.4,
                 "temperature": 0.8,				
                 "weirdness": 0.05,
@@ -27,40 +37,30 @@
               }
             },
 	    {
-              "biome": "byg:mangrove_marshes",
-              "parameters": {
-                "altitude": 0.4057547,
-		"humidity": 0.8,
-                "temperature": 0.8,				
-                "weirdness": 0.01,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "byg:twilight_valley_hills",
+              "biome": "byg:oasis",
               "parameters": {
                 "altitude": 0.016404748,
 		"humidity": 0.8,
-                "temperature": 0.25,				
-                "weirdness": 0.05,
+                "temperature": 0.8,				
+                "weirdness": 0.0,
                 "offset": 0
               }
             },
 	    {
-              "biome": "minecraft:end_midlands",
+              "biome": "experimental_m:deadforest",
               "parameters": {
                 "altitude": 0.13676673,
-		"humidity": 0.5,
-                "temperature": 0.5,				
+		"humidity": 0.6,
+                "temperature": 0.4,				
                 "weirdness": 0.2,
                 "offset": 0
               }
             },
 	    {
-              "biome": "byg:flowering_ancient_forest",
+              "biome": "minecraft:plains",
               "parameters": {
                 "altitude": 0.9041739,
-		"humidity": 0.8,
+		"humidity": 0.4,
                 "temperature": 0.8,				
                 "weirdness": 0.05,
                 "offset": 0

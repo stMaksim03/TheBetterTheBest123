@@ -203,15 +203,15 @@
     },
     "done": true
   },
-  "minecolonies:production/root": {
-    "criteria": {
-      "builders_hut": "2023-04-03 22:18:52 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2023-04-03 21:45:07 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:production/root": {
+    "criteria": {
+      "builders_hut": "2023-04-03 22:18:52 +0300"
     },
     "done": true
   },
@@ -302,6 +302,12 @@
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2023-04-01 23:15:19 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2023-04-04 20:13:17 +0300"
     },
     "done": true
   },
@@ -515,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2023-04-04 20:42:07 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-04-01 21:58:22 +0300"
@@ -567,6 +579,12 @@
   "create:recipes/create.base/crafting/materials/copper_block_from_compacting": {
     "criteria": {
       "has_item": "2023-04-01 22:51:58 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2023-04-04 20:13:17 +0300"
     },
     "done": true
   },
@@ -637,7 +655,8 @@
       "minecraft:spider": "2023-04-01 22:22:54 +0300",
       "minecraft:creeper": "2023-04-01 22:59:38 +0300",
       "minecraft:enderman": "2023-04-02 17:30:38 +0300",
-      "minecraft:zombie": "2023-04-01 22:21:45 +0300"
+      "minecraft:zombie": "2023-04-01 22:21:45 +0300",
+      "minecraft:zombie_villager": "2023-04-04 19:26:31 +0300"
     },
     "done": false
   },
@@ -656,6 +675,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2023-04-01 22:02:01 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2023-04-04 20:13:17 +0300"
     },
     "done": true
   },
@@ -1417,6 +1442,7 @@
   "tconstruct:tools/material_master": {
     "criteria": {
       "slimewood": "2023-04-02 18:34:40 +0300",
+      "wood": "2023-04-04 20:31:41 +0300",
       "stone": "2023-04-02 22:37:55 +0300",
       "iron": "2023-04-02 18:34:39 +0300"
     },
@@ -2904,6 +2930,12 @@
   "minecolonies:recipes/combat/chainmailchestplate": {
     "criteria": {
       "has_iron": "2023-04-01 21:57:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2023-04-04 20:05:44 +0300"
     },
     "done": true
   },

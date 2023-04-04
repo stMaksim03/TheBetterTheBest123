@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutsifter": {
+    "criteria": {
+      "has_the_recipe": "2023-04-04 19:32:53 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-04-01 22:23:37 +0300"
@@ -594,6 +600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2023-04-04 19:43:52 +0300"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_gauge": {
     "criteria": {
       "has_item": "2023-04-01 23:47:11 +0300"
@@ -748,6 +760,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2023-04-02 17:02:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2023-04-04 19:31:50 +0300"
     },
     "done": true
   },
@@ -1898,6 +1916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2023-04-04 19:31:50 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2023-04-02 00:34:05 +0300"
@@ -1958,6 +1982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2023-04-04 19:31:50 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2023-04-02 00:23:00 +0300"
@@ -2003,6 +2033,12 @@
   "create:recipes/create.base/crafting/kinetics/goggles": {
     "criteria": {
       "has_item": "2023-04-02 14:18:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-04-04 19:43:52 +0300"
     },
     "done": true
   },
@@ -2180,6 +2216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2023-04-04 20:06:49 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2023-04-02 00:44:01 +0300"
@@ -2342,6 +2384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2023-04-04 19:43:52 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/blasting/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2023-04-02 00:36:05 +0300"
@@ -2351,6 +2399,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2023-04-02 00:43:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-04-04 19:31:50 +0300"
     },
     "done": true
   },
@@ -2522,6 +2576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2023-04-04 19:43:52 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-01 22:23:37 +0300"
@@ -2600,15 +2660,15 @@
     },
     "done": true
   },
-  "minecolonies:recipes/minecolonies/blockhutlibrary": {
-    "criteria": {
-      "has_items": "2023-04-03 20:57:42 +0300"
-    },
-    "done": true
-  },
   "minecolonies:recipes/minecolonies/barrel_block": {
     "criteria": {
       "has_items": "2023-04-03 20:52:12 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutlibrary": {
+    "criteria": {
+      "has_items": "2023-04-03 20:57:42 +0300"
     },
     "done": true
   },
@@ -2882,6 +2942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2023-04-04 19:31:50 +0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2023-04-01 21:07:35 +0300"
@@ -3041,6 +3107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-04-04 19:43:52 +0300"
+    },
+    "done": true
+  },
   "tconstruct:tools/tool_smith": {
     "criteria": {
       "sword": "2023-04-03 19:15:53 +0300",
@@ -3141,6 +3213,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-04-03 21:25:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-04-04 19:43:52 +0300"
     },
     "done": true
   },
@@ -3300,6 +3378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-04-04 19:31:50 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2023-04-01 21:59:54 +0300"
@@ -3348,9 +3432,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2023-04-04 19:43:52 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/spruce_window": {
     "criteria": {
       "has_ingredient": "2023-04-02 19:40:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-04-04 19:43:52 +0300"
     },
     "done": true
   },
@@ -3674,6 +3770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-04-04 19:31:50 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2023-04-02 13:57:23 +0300"
@@ -3707,6 +3809,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2023-04-01 21:59:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2023-04-04 19:43:52 +0300"
     },
     "done": true
   },
@@ -3814,6 +3922,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2023-04-04 20:33:17 +0300",
       "cooked_mutton": "2023-04-01 23:42:28 +0300",
       "sweet_berries": "2023-04-02 00:12:45 +0300",
       "cooked_beef": "2023-04-01 23:21:10 +0300",
@@ -3862,6 +3971,12 @@
   "create:polished_rose_quartz": {
     "criteria": {
       "0": "2023-04-02 16:30:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2023-04-04 19:31:50 +0300"
     },
     "done": true
   },
@@ -4169,6 +4284,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2023-04-02 00:43:36 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/birch_window": {
+    "criteria": {
+      "has_ingredient": "2023-04-04 19:31:50 +0300"
     },
     "done": true
   },
@@ -4610,6 +4731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2023-04-04 19:43:52 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2023-04-02 14:33:00 +0300"
@@ -4647,6 +4774,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-04-01 21:59:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2023-04-04 19:31:50 +0300"
     },
     "done": true
   },

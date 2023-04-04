@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/supplychestdeployer": {
+    "criteria": {
+      "has_boat": "2023-04-04 20:58:10 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2023-04-01 21:44:51 +0300"
@@ -773,6 +779,7 @@
       "minecraft:witch": "2023-04-02 19:41:17 +0300",
       "minecraft:enderman": "2023-04-02 19:14:32 +0300",
       "minecraft:zombie": "2023-04-01 22:06:21 +0300",
+      "minecraft:drowned": "2023-04-04 20:03:01 +0300",
       "minecraft:zombie_villager": "2023-04-02 19:13:00 +0300"
     },
     "done": false
@@ -2192,6 +2199,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2023-04-01 23:43:58 +0300",
+      "cooked_beef": "2023-04-04 20:41:29 +0300",
       "baked_potato": "2023-04-02 15:36:56 +0300",
       "apple": "2023-04-02 00:43:37 +0300",
       "cooked_cod": "2023-04-01 22:08:06 +0300",

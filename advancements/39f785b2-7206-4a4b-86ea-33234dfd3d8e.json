@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2023-04-04 20:50:22 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2023-04-02 16:31:07 +0300"
@@ -206,6 +212,12 @@
   "create:recipes/create.palettes/polished_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_scoria": "2023-04-02 22:59:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2023-04-04 20:50:22 +0300"
     },
     "done": true
   },
@@ -278,6 +290,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2023-04-03 20:02:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2023-04-04 20:50:22 +0300"
     },
     "done": true
   },
@@ -410,6 +428,12 @@
   "create:recipes/create.base/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2023-04-02 16:57:01 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_eat_food_first": {
+    "criteria": {
+      "citizen_eat_anything": "2023-04-04 20:25:25 +0300"
     },
     "done": true
   },
@@ -662,7 +686,8 @@
       "minecraft:slime": "2023-04-02 21:59:14 +0300",
       "minecraft:cave_spider": "2023-04-03 20:52:48 +0300",
       "minecraft:silverfish": "2023-04-03 20:52:47 +0300",
-      "minecraft:zombie": "2023-04-02 17:28:19 +0300"
+      "minecraft:zombie": "2023-04-02 17:28:19 +0300",
+      "minecraft:drowned": "2023-04-04 20:03:05 +0300"
     },
     "done": false
   },
@@ -717,6 +742,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2023-04-03 21:14:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-04-04 20:50:22 +0300"
     },
     "done": true
   },
@@ -1086,6 +1117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-04-04 20:50:22 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2023-04-02 16:31:44 +0300"
@@ -1442,6 +1479,7 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "slimewood": "2023-04-04 20:57:31 +0300",
       "stone": "2023-04-02 23:10:14 +0300",
       "pig_iron": "2023-04-03 19:20:41 +0300"
     },
@@ -1824,6 +1862,7 @@
       "cooked_porkchop": "2023-04-03 19:00:42 +0300",
       "chicken": "2023-04-03 21:15:01 +0300",
       "sweet_berries": "2023-04-02 16:18:50 +0300",
+      "cooked_beef": "2023-04-04 20:59:36 +0300",
       "baked_potato": "2023-04-02 22:05:10 +0300",
       "tropical_fish": "2023-04-02 19:12:21 +0300",
       "potato": "2023-04-03 22:33:46 +0300",
@@ -2377,6 +2416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2023-04-04 20:50:22 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2023-04-02 16:37:01 +0300"
@@ -2388,6 +2433,12 @@
       "has_bed": "2023-04-03 21:51:16 +0300"
     },
     "done": true
+  },
+  "minecolonies:production/build_all_herders": {
+    "criteria": {
+      "cows": "2023-04-04 20:58:05 +0300"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/granite_bricks_from_granite_stonecutting": {
     "criteria": {
@@ -2410,6 +2461,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_the_recipe": "2023-04-02 22:03:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2023-04-04 20:50:22 +0300"
     },
     "done": true
   },
@@ -2863,6 +2920,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2023-04-04 20:50:22 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2023-04-02 22:42:58 +0300"
@@ -2914,6 +2977,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2023-04-02 17:08:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-04-04 20:50:22 +0300"
     },
     "done": true
   },
@@ -2992,6 +3061,7 @@
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
       "scythe": "2023-04-03 22:59:28 +0300",
+      "sledge_hammer": "2023-04-04 20:57:31 +0300",
       "cleaver": "2023-04-02 23:10:14 +0300"
     },
     "done": false
@@ -3161,6 +3231,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2023-04-02 22:42:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2023-04-04 20:50:22 +0300"
     },
     "done": true
   },
