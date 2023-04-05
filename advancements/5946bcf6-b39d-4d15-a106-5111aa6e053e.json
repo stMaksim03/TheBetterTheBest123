@@ -1130,9 +1130,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2023-04-05 20:56:16 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-04-01 20:54:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-04-05 20:28:41 +0300"
     },
     "done": true
   },
@@ -1273,6 +1285,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2023-04-02 00:57:14 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutchickenherder": {
+    "criteria": {
+      "has_items": "2023-04-05 20:35:57 +0300"
     },
     "done": true
   },
@@ -2116,6 +2134,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutwarehouse": {
+    "criteria": {
+      "has_items": "2023-04-05 20:06:49 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2023-04-01 20:52:33 +0300"
@@ -2269,6 +2293,12 @@
   "create:recipes/create.palettes/overgrown_gabbro_from_gabbro_stonecutting": {
     "criteria": {
       "has_gabbro": "2023-04-02 01:34:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2023-04-05 20:32:40 +0300"
     },
     "done": true
   },
@@ -3271,6 +3301,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2023-04-05 20:56:16 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/adjustable_chain_gearshift": {
     "criteria": {
       "has_item": "2023-04-02 16:34:25 +0300"
@@ -3512,6 +3548,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2023-04-05 20:56:16 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2023-04-01 20:48:30 +0300"
@@ -3611,6 +3653,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-04-01 23:37:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2023-04-05 20:56:16 +0300"
     },
     "done": true
   },
@@ -4150,6 +4198,12 @@
   "create:recipes/create.base/crafting/kinetics/analog_lever": {
     "criteria": {
       "has_item": "2023-04-02 14:18:50 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockstash": {
+    "criteria": {
+      "has_items": "2023-04-05 20:06:49 +0300"
     },
     "done": true
   },
@@ -4718,6 +4772,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockpostbox": {
+    "criteria": {
+      "has_items": "2023-04-05 20:06:49 +0300"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/build_builder": {
     "criteria": {
       "builders_hut": "2023-04-02 00:06:20 +0300"
@@ -4817,6 +4877,12 @@
   "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
       "has_item": "2023-04-02 16:34:47 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2023-04-05 20:56:16 +0300"
     },
     "done": true
   },
@@ -5325,6 +5391,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2023-04-02 00:31:45 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutbuilder": {
+    "criteria": {
+      "has_items": "2023-04-05 20:06:25 +0300"
     },
     "done": true
   },
