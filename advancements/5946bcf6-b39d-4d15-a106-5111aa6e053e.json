@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2023-04-05 12:36:52 +0300"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/place_townhall": {
     "criteria": {
       "build_tool_place_town_hall": "2023-04-01 23:36:13 +0300"
@@ -2422,6 +2428,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutfletcher": {
+    "criteria": {
+      "has_items": "2023-04-05 13:02:38 +0300"
+    },
+    "done": true
+  },
   "create:electron_tube": {
     "criteria": {
       "0": "2023-04-02 16:31:35 +0300"
@@ -3740,6 +3752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2023-04-05 12:36:52 +0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2023-04-01 22:32:21 +0300",
@@ -3850,6 +3868,12 @@
   "create:recipes/create.base/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2023-04-01 22:36:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2023-04-05 13:29:28 +0300"
     },
     "done": true
   },
@@ -3982,6 +4006,12 @@
   "minecolonies:recipes/combat/chainmailhelmet": {
     "criteria": {
       "has_iron": "2023-04-01 22:00:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2023-04-05 12:36:52 +0300"
     },
     "done": true
   },
@@ -4234,6 +4264,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2023-04-01 21:54:46 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutcowboy": {
+    "criteria": {
+      "has_items": "2023-04-05 13:04:29 +0300"
     },
     "done": true
   },
@@ -4796,6 +4832,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutgraveyard": {
+    "criteria": {
+      "has_items": "2023-04-05 13:02:27 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2023-04-01 22:36:12 +0300"
@@ -5253,6 +5295,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2023-04-04 23:58:40 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutbaker": {
+    "criteria": {
+      "has_items": "2023-04-05 12:15:43 +0300"
     },
     "done": true
   },
