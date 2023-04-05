@@ -2565,6 +2565,12 @@
     },
     "done": true
   },
+  "tconstruct:foundry/encyclopedia": {
+    "criteria": {
+      "crafted_book": "2023-04-05 21:50:04 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2023-04-01 20:47:45 +0300"

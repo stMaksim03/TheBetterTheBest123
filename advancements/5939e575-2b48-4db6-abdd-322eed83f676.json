@@ -870,6 +870,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2023-04-05 22:47:36 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-04-02 15:17:04 +0300"
@@ -969,6 +975,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2023-04-01 23:06:49 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/red_sand_cast": {
+    "criteria": {
+      "has_casting": "2023-04-05 22:09:16 +0300"
     },
     "done": true
   },
@@ -1263,6 +1275,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2023-04-01 21:57:43 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/sand_cast": {
+    "criteria": {
+      "has_casting": "2023-04-05 22:09:16 +0300"
     },
     "done": true
   },
@@ -2051,6 +2069,8 @@
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
       "tough_handle": "2023-04-02 15:50:25 +0300",
+      "large_plate": "2023-04-05 22:10:46 +0300",
+      "hammer_head": "2023-04-05 22:06:06 +0300",
       "broad_blade": "2023-04-02 14:58:31 +0300",
       "tool_handle": "2023-04-02 14:58:31 +0300",
       "ingot": "2023-04-02 19:18:23 +0300"
@@ -2101,6 +2121,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2023-04-05 22:49:02 +0300",
       "cooked_mutton": "2023-04-01 23:41:49 +0300",
       "sweet_berries": "2023-04-02 13:56:36 +0300",
       "baked_potato": "2023-04-02 15:56:50 +0300",
@@ -2111,6 +2132,7 @@
       "bread": "2023-04-01 22:08:15 +0300",
       "rotten_flesh": "2023-04-01 22:24:28 +0300",
       "cookie": "2023-04-02 19:11:42 +0300",
+      "dried_kelp": "2023-04-05 22:18:41 +0300",
       "melon_slice": "2023-04-02 14:21:54 +0300",
       "cooked_chicken": "2023-04-01 23:20:05 +0300",
       "cooked_salmon": "2023-04-02 18:17:58 +0300"
@@ -2741,6 +2763,13 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_table": "2023-04-05 22:09:20 +0300",
+      "seared_basin": "2023-04-05 22:08:45 +0300"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-04-04 22:06:59 +0300"
@@ -3221,6 +3250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2023-04-05 22:21:36 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2023-04-01 22:02:01 +0300"
@@ -3236,6 +3271,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2023-04-04 21:51:45 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/earth/slimeball_from_congealed": {
+    "criteria": {
+      "has_item": "2023-04-05 22:22:04 +0300"
     },
     "done": true
   },
@@ -3629,6 +3670,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2023-04-04 21:56:51 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/slime/sky/slimeball_from_block": {
+    "criteria": {
+      "has_item": "2023-04-05 22:06:33 +0300"
     },
     "done": true
   },
