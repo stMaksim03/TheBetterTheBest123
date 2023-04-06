@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2023-04-06 21:09:05 +0300"
+    },
+    "done": true
+  },
   "minecolonies:recipes/structurize/shapetool": {
     "criteria": {
       "has_stick": "2023-04-01 20:48:30 +0300"
@@ -3952,6 +3958,12 @@
   "create:recipes/create.base/crafting/kinetics/portable_fluid_interface": {
     "criteria": {
       "has_item": "2023-04-02 22:27:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_the_recipe": "2023-04-06 20:10:47 +0300"
     },
     "done": true
   },
