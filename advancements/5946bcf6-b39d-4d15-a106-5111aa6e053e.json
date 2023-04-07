@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-07 21:43:53 +0300"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/tables/book_substitute": {
     "criteria": {
       "has_item": "2023-04-02 01:39:42 +0300"
@@ -266,6 +272,12 @@
   "tconstruct:recipes/tconstruct/general/tables/crafting_station_from_logs": {
     "criteria": {
       "has_item": "2023-04-02 01:39:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-07 21:43:53 +0300"
     },
     "done": true
   },
@@ -515,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2023-04-07 20:09:21 +0300"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailleggings": {
     "criteria": {
       "has_iron": "2023-04-01 22:00:06 +0300"
@@ -691,9 +709,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2023-04-07 20:09:21 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2023-04-02 15:00:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-04-07 19:12:03 +0300"
     },
     "done": true
   },
@@ -854,6 +884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2023-04-07 20:09:21 +0300"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/copper_ingot_smelting": {
     "criteria": {
       "has_item": "2023-04-01 20:55:06 +0300"
@@ -971,6 +1007,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2023-04-01 22:00:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2023-04-07 20:09:21 +0300"
     },
     "done": true
   },
@@ -1202,6 +1244,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2023-04-07 20:09:21 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_the_recipe": "2023-04-07 19:18:34 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-01 22:23:37 +0300"
@@ -1211,6 +1265,12 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-04-03 21:25:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-04-07 19:12:03 +0300"
     },
     "done": true
   },
@@ -1250,6 +1310,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2023-04-07 20:09:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2023-04-07 19:12:26 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2023-04-04 22:18:53 +0300"
@@ -1278,7 +1350,8 @@
     "criteria": {
       "slimewood": "2023-04-02 01:40:45 +0300",
       "stone": "2023-04-03 22:58:27 +0300",
-      "pig_iron": "2023-04-03 19:15:53 +0300"
+      "pig_iron": "2023-04-03 19:15:53 +0300",
+      "iron": "2023-04-07 20:10:24 +0300"
     },
     "done": false
   },
@@ -1345,6 +1418,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2023-04-01 22:36:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-07 21:43:53 +0300"
     },
     "done": true
   },
@@ -1752,6 +1831,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-04-01 23:37:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-07 21:43:53 +0300"
     },
     "done": true
   },
@@ -2302,6 +2387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-07 21:43:53 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2023-04-01 21:59:54 +0300"
@@ -2440,6 +2531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-07 21:43:53 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2023-04-02 14:18:50 +0300"
@@ -2497,6 +2594,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2023-04-02 00:32:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2023-04-07 19:12:03 +0300"
     },
     "done": true
   },
@@ -3058,6 +3161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-07 21:43:53 +0300"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/world/world/wood/greenheart/slab": {
     "criteria": {
       "has_planks": "2023-04-02 20:32:09 +0300"
@@ -3067,6 +3176,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_paver_smelting": {
     "criteria": {
       "has_item": "2023-04-02 00:09:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-07 21:43:53 +0300"
     },
     "done": true
   },
@@ -3335,6 +3450,7 @@
       "minecraft:vindicator": "2023-04-02 19:34:25 +0300",
       "minecraft:spider": "2023-04-02 00:57:04 +0300",
       "minecraft:creeper": "2023-04-01 21:22:51 +0300",
+      "minecraft:phantom": "2023-04-07 21:01:05 +0300",
       "minecraft:zombified_piglin": "2023-04-02 16:18:38 +0300",
       "minecraft:witch": "2023-04-02 19:39:13 +0300",
       "minecraft:enderman": "2023-04-02 15:51:31 +0300",
@@ -3352,6 +3468,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2023-04-04 22:28:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2023-04-07 20:09:21 +0300"
     },
     "done": true
   },
@@ -3421,6 +3543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2023-04-07 20:09:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-04-02 00:43:36 +0300"
@@ -3436,6 +3564,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2023-04-01 22:00:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-07 21:43:53 +0300"
     },
     "done": true
   },
@@ -3518,6 +3652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2023-04-07 19:12:26 +0300"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/copper_block_from_ingots": {
     "criteria": {
       "has_item": "2023-04-02 22:27:32 +0300"
@@ -3539,6 +3679,12 @@
   "create:recipes/create.base/crafting/logistics/adjustable_crate": {
     "criteria": {
       "has_item": "2023-04-02 16:34:25 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/rose_gold_ingot_from_block": {
+    "criteria": {
+      "has_item": "2023-04-07 21:43:29 +0300"
     },
     "done": true
   },
@@ -3587,6 +3733,12 @@
   "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2023-04-01 22:23:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2023-04-07 19:00:03 +0300"
     },
     "done": true
   },
@@ -3674,6 +3826,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2023-04-07 21:32:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2023-04-03 21:32:59 +0300"
@@ -3695,6 +3853,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2023-04-01 22:39:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2023-04-07 20:09:21 +0300"
     },
     "done": true
   },
@@ -3842,6 +4006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-07 21:43:53 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_cobblestone_slab_from_limestone_cobblestone_stonecutting": {
     "criteria": {
       "has_limestone_cobblestone": "2023-04-04 22:01:44 +0300"
@@ -3875,6 +4045,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2023-04-01 21:59:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-07 21:43:53 +0300"
     },
     "done": true
   },
@@ -4153,15 +4329,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-07 21:43:53 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/nixie_tube": {
     "criteria": {
       "has_item": "2023-04-02 16:34:25 +0300"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2023-04-07 20:09:21 +0300"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/table": {
     "criteria": {
       "has_item": "2023-04-01 23:47:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-07 21:43:53 +0300"
     },
     "done": true
   },
@@ -4333,6 +4527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2023-04-07 20:09:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2023-04-04 23:14:34 +0300"
@@ -4396,6 +4596,12 @@
   "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2023-04-01 22:23:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-07 21:43:53 +0300"
     },
     "done": true
   },
@@ -4504,6 +4710,12 @@
   "create:its_alive": {
     "criteria": {
       "0": "2023-04-02 14:52:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2023-04-07 19:12:03 +0300"
     },
     "done": true
   },
@@ -5090,9 +5302,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-07 21:43:53 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_item": "2023-04-07 19:19:42 +0300"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/cast_chest": {
     "criteria": {
       "has_item": "2023-04-02 00:23:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-07 21:43:53 +0300"
     },
     "done": true
   },
