@@ -17,52 +17,12 @@
           "seed": 0,
           "biomes": [
 	    {
-              "biome": "byg:dover_mountains",
+              "biome": "minecraft:mushroom_fields",
               "parameters": {
                 "altitude": 0.30650806,
-		"humidity": 0.8,
-                "temperature": 0.25,				
-                "weirdness": 0.6,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "byg:ethereal_islands",
-              "parameters": {
-                "altitude": 0.4057547,
-		"humidity": 0.4,
-                "temperature": 0.8,				
-                "weirdness": 0.05,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "byg:cika_woods",
-              "parameters": {
-                "altitude": 0.016404748,
-		"humidity": 0.5,
-                "temperature": 0.35,				
-                "weirdness": 0.2,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "byg:rainbow_beach",
-              "parameters": {
-                "altitude": 0.13676673,
-		"humidity": 0.75,
-                "temperature": 0.85,				
-                "weirdness": 0.025,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "byg:bluff_steeps",
-              "parameters": {
-                "altitude": 0.9041739,
-		"humidity": 0.5,
-                "temperature": 0.25,				
-                "weirdness": 0.2,
+		"humidity": 1.0,
+                "temperature": 0.9,				
+                "weirdness": 0.3,
                 "offset": 0
               }
             }

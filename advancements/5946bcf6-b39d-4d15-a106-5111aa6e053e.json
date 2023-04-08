@@ -811,6 +811,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/monitor_advanced": {
+    "criteria": {
+      "has_computer": "2023-04-08 19:41:10 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2023-04-02 00:43:36 +0300"
@@ -863,6 +869,12 @@
     "criteria": {
       "0": "2023-04-02 14:28:10 +0300",
       "1": "2023-04-02 14:50:16 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/computer_advanced_upgrade": {
+    "criteria": {
+      "has_components": "2023-04-08 19:41:11 +0300"
     },
     "done": true
   },
@@ -1463,6 +1475,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/turtle_normal": {
+    "criteria": {
+      "has_computer": "2023-04-08 19:41:10 +0300"
+    },
+    "done": true
+  },
   "tconstruct:foundry/fantastic_foundry": {
     "criteria": {
       "crafted_book": "2023-04-04 22:10:19 +0300"
@@ -1610,6 +1628,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-04-03 21:25:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2023-04-08 20:59:41 +0300"
     },
     "done": true
   },
@@ -1795,6 +1819,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2023-04-02 00:43:36 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/speaker": {
+    "criteria": {
+      "has_computer": "2023-04-08 19:41:10 +0300"
     },
     "done": true
   },
@@ -2045,6 +2075,12 @@
     },
     "done": true
   },
+  "tinkersarchery:recipes/awesome_archery": {
+    "criteria": {
+      "has_book": "2023-04-08 19:51:47 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2023-04-01 22:00:06 +0300"
@@ -2150,6 +2186,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2023-04-02 00:48:49 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/wireless_modem_normal": {
+    "criteria": {
+      "has_computer": "2023-04-08 19:41:10 +0300"
     },
     "done": true
   },
@@ -2372,6 +2414,12 @@
   "create:recipes/create.palettes/polished_gabbro": {
     "criteria": {
       "has_gabbro": "2023-04-02 01:34:53 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/pocket_computer_normal": {
+    "criteria": {
+      "has_computer": "2023-04-08 19:41:10 +0300"
     },
     "done": true
   },
@@ -2630,6 +2678,12 @@
   "create:electron_tube": {
     "criteria": {
       "0": "2023-04-02 16:31:35 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/cable": {
+    "criteria": {
+      "has_computer": "2023-04-08 19:41:10 +0300"
     },
     "done": true
   },
@@ -3029,6 +3083,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/pocket_computer_advanced": {
+    "criteria": {
+      "has_computer": "2023-04-08 19:41:10 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2023-04-02 19:55:17 +0300"
@@ -3110,6 +3170,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2023-04-02 22:27:07 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_drive": {
+    "criteria": {
+      "has_computer": "2023-04-08 19:41:10 +0300"
     },
     "done": true
   },
@@ -3437,6 +3503,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/wired_modem": {
+    "criteria": {
+      "has_computer": "2023-04-08 19:41:10 +0300"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/armor/building/travelers_pants": {
     "criteria": {
       "has_item": "2023-04-01 21:55:41 +0300"
@@ -3505,6 +3577,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2023-04-07 20:09:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2023-04-08 20:59:41 +0300"
     },
     "done": true
   },
@@ -3851,6 +3929,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/turtle_advanced": {
+    "criteria": {
+      "has_computer": "2023-04-08 19:41:10 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2023-04-01 22:00:06 +0300"
@@ -3950,6 +4034,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2023-04-01 21:59:54 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/monitor_normal": {
+    "criteria": {
+      "has_computer": "2023-04-08 19:41:10 +0300"
     },
     "done": true
   },
@@ -4204,6 +4294,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/computer_advanced": {
+    "criteria": {
+      "has_components": "2023-04-08 19:41:11 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2023-04-01 22:36:12 +0300"
@@ -4237,6 +4333,12 @@
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2023-04-02 14:18:50 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/wireless_modem_advanced": {
+    "criteria": {
+      "has_computer": "2023-04-08 19:41:10 +0300"
     },
     "done": true
   },
@@ -4489,6 +4591,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2023-04-04 19:43:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2023-04-08 20:59:41 +0300"
     },
     "done": true
   },
@@ -4840,6 +4948,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/computer_normal": {
+    "criteria": {
+      "has_redstone": "2023-04-08 16:31:39 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2023-04-01 21:55:41 +0300"
@@ -5156,6 +5270,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2023-04-02 23:03:18 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/printer": {
+    "criteria": {
+      "has_computer": "2023-04-08 19:41:10 +0300"
     },
     "done": true
   },
@@ -5832,6 +5952,12 @@
   "create:recipes/create.base/crafting/kinetics/linear_chassis": {
     "criteria": {
       "has_item": "2023-04-02 14:18:50 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/decorations/skull_dan200": {
+    "criteria": {
+      "has_computer": "2023-04-08 19:41:21 +0300"
     },
     "done": true
   },

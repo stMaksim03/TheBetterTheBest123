@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2023-04-08 21:13:24 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-07 19:29:50 +0300"
@@ -359,6 +365,12 @@
     },
     "done": true
   },
+  "advancedrocketry:normal/blockpresser": {
+    "criteria": {
+      "warp": "2023-04-08 21:13:24 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2023-04-03 20:25:51 +0300"
@@ -689,6 +701,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/computer_normal": {
+    "criteria": {
+      "has_redstone": "2023-04-08 19:51:31 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2023-04-03 20:15:30 +0300"
@@ -926,6 +944,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2023-04-07 23:48:20 +0300",
+      "minecraft:spider": "2023-04-08 20:11:16 +0300",
       "minecraft:creeper": "2023-04-07 23:48:15 +0300",
       "minecraft:zombie": "2023-04-07 23:01:32 +0300"
     },
@@ -1928,6 +1947,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "cleaver": "2023-04-08 20:11:34 +0300"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-07 19:29:50 +0300"
@@ -2054,9 +2079,21 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2023-04-08 20:11:34 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2023-04-07 19:28:34 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/computer_advanced": {
+    "criteria": {
+      "has_components": "2023-04-08 19:51:31 +0300"
     },
     "done": true
   },
@@ -2225,6 +2262,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2023-04-07 19:28:34 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2023-04-08 20:11:34 +0300"
     },
     "done": true
   },

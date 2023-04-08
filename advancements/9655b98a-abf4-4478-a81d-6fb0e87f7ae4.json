@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "structurize:recipes/structurize.shingles/slate_shingle_slab": {
+    "criteria": {
+      "has_the_recipe": "2023-04-08 20:22:40 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2023-04-01 20:54:06 +0300"
@@ -176,6 +182,12 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2023-04-07 21:34:01 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhuthospital": {
+    "criteria": {
+      "has_items": "2023-04-08 21:16:36 +0300"
     },
     "done": true
   },
@@ -332,6 +344,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2023-04-07 21:40:14 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2023-04-08 20:20:56 +0300"
     },
     "done": true
   },
@@ -2078,6 +2096,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutmechanic": {
+    "criteria": {
+      "has_items": "2023-04-08 19:53:19 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2023-04-01 22:28:14 +0300"
@@ -3638,6 +3662,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/computer_advanced": {
+    "criteria": {
+      "has_components": "2023-04-08 19:40:57 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2023-04-01 22:28:14 +0300"
@@ -3659,6 +3689,12 @@
   "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2023-04-01 21:51:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2023-04-08 19:22:13 +0300"
     },
     "done": true
   },
@@ -3827,6 +3863,18 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2023-04-03 21:30:52 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutcomposter": {
+    "criteria": {
+      "has_items": "2023-04-08 20:51:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2023-04-08 19:53:19 +0300"
     },
     "done": true
   },
@@ -4123,6 +4171,12 @@
   "minecolonies:recipes/minecolonies/blockhutblacksmith": {
     "criteria": {
       "has_items": "2023-04-01 21:59:24 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/computer_normal": {
+    "criteria": {
+      "has_redstone": "2023-04-08 19:40:57 +0300"
     },
     "done": true
   },
@@ -4453,6 +4507,12 @@
   "tconstruct:tools/tinker_station": {
     "criteria": {
       "crafted_block": "2023-04-01 22:36:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2023-04-08 19:22:13 +0300"
     },
     "done": true
   },
