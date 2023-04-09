@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2023-04-09 16:03:10 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2023-04-01 21:54:41 +0300"
@@ -191,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2023-04-09 15:52:31 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2023-04-01 21:56:39 +0300"
@@ -224,6 +236,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2023-04-03 22:15:20 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/tinkers_anvil": {
+    "criteria": {
+      "has_item": "2023-04-09 15:14:50 +0300"
     },
     "done": true
   },
@@ -401,6 +419,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tables/scorched_anvil": {
+    "criteria": {
+      "has_item": "2023-04-09 15:14:50 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-04-01 22:38:25 +0300"
@@ -494,6 +518,12 @@
   "create:recipes/create.base/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2023-04-01 22:36:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2023-04-09 16:03:10 +0300"
     },
     "done": true
   },
@@ -814,6 +844,12 @@
   "create:recipes/create.base/crafting/materials/andesite_alloy_from_zinc": {
     "criteria": {
       "has_item": "2023-04-04 20:13:17 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2023-04-09 16:03:10 +0300"
     },
     "done": true
   },
@@ -1183,6 +1219,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2023-04-09 16:03:10 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2023-04-01 21:57:43 +0300"
@@ -1228,6 +1270,12 @@
   "create:recipes/create.base/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2023-04-01 22:36:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2023-04-09 16:03:10 +0300"
     },
     "done": true
   },
@@ -1300,6 +1348,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2023-04-01 21:57:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2023-04-09 16:03:10 +0300"
     },
     "done": true
   },
@@ -1513,14 +1567,22 @@
       "minecraft:cold_ocean": "2023-04-01 22:10:52 +0300",
       "minecraft:forest": "2023-04-02 18:16:51 +0300",
       "minecraft:jungle": "2023-04-01 22:48:40 +0300",
+      "minecraft:jungle_hills": "2023-04-09 15:57:05 +0300",
       "minecraft:beach": "2023-04-01 23:09:12 +0300",
-      "minecraft:river": "2023-04-01 21:54:39 +0300"
+      "minecraft:river": "2023-04-01 21:54:39 +0300",
+      "minecraft:lukewarm_ocean": "2023-04-09 16:03:25 +0300"
     },
     "done": false
   },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-04-02 19:31:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2023-04-09 16:03:10 +0300"
     },
     "done": true
   },
@@ -1635,6 +1697,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2023-04-08 20:09:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2023-04-09 16:01:05 +0300"
     },
     "done": true
   },
@@ -1960,6 +2028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2023-04-09 16:03:10 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2023-04-01 22:07:55 +0300"
@@ -1993,6 +2067,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2023-04-08 20:09:49 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_miner": {
+    "criteria": {
+      "miner": "2023-04-09 15:43:24 +0300"
     },
     "done": true
   },
@@ -2140,6 +2220,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tables/scorched_forge": {
+    "criteria": {
+      "has_item": "2023-04-09 15:14:50 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2023-04-01 21:54:41 +0300"
@@ -2230,6 +2316,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/tables/tinkers_forge": {
+    "criteria": {
+      "has_item": "2023-04-09 15:14:50 +0300"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/copper_ingot_blasting": {
     "criteria": {
       "has_item": "2023-04-01 22:20:22 +0300"
@@ -2253,6 +2345,7 @@
       "dried_kelp": "2023-04-05 22:18:41 +0300",
       "melon_slice": "2023-04-02 14:21:54 +0300",
       "cooked_chicken": "2023-04-01 23:20:05 +0300",
+      "cod": "2023-04-09 15:55:15 +0300",
       "cooked_salmon": "2023-04-02 18:17:58 +0300"
     },
     "done": false
@@ -2500,6 +2593,12 @@
   "create:recipes/create.palettes/overgrown_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-04-02 15:17:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2023-04-09 15:52:31 +0300"
     },
     "done": true
   },
@@ -3068,6 +3167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2023-04-09 15:52:31 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2023-04-01 21:56:39 +0300"
@@ -3179,6 +3284,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2023-04-08 19:25:36 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2023-04-09 16:03:10 +0300"
     },
     "done": true
   },
@@ -3311,6 +3422,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-02 18:34:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2023-04-09 16:05:02 +0300"
     },
     "done": true
   },

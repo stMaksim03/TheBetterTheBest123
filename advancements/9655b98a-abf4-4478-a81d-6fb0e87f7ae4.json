@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_slab": {
+    "criteria": {
+      "has_item": "2023-04-09 15:27:06 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2023-04-02 15:27:25 +0300"
@@ -209,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-09 15:23:33 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2023-04-07 23:46:07 +0300"
@@ -239,6 +251,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_glass": {
+    "criteria": {
+      "has_item": "2023-04-09 16:46:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2023-04-01 20:48:21 +0300"
@@ -254,6 +272,12 @@
   "tconstruct:recipes/tconstruct/general/tables/crafting_station_from_logs": {
     "criteria": {
       "has_item": "2023-04-01 22:35:02 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-09 15:23:33 +0300"
     },
     "done": true
   },
@@ -362,6 +386,12 @@
   "create:recipes/create.palettes/fancy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-04-01 21:08:33 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2023-04-09 15:27:06 +0300"
     },
     "done": true
   },
@@ -679,6 +709,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_gauge": {
+    "criteria": {
+      "has_item": "2023-04-09 16:46:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2023-04-07 20:23:03 +0300"
@@ -766,6 +802,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/red_sand_cast": {
     "criteria": {
       "has_casting": "2023-04-02 16:13:50 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/drain": {
+    "criteria": {
+      "has_item": "2023-04-09 16:46:41 +0300"
     },
     "done": true
   },
@@ -863,6 +905,12 @@
   "tconstruct:recipes/tconstruct/general/tables/crafting_station": {
     "criteria": {
       "has_item": "2023-04-01 22:35:02 +0300"
+    },
+    "done": true
+  },
+  "structurize:recipes/structurize.timber_frames/double_crossed_oak_cobblestone_timber_frame": {
+    "criteria": {
+      "has_the_recipe": "2023-04-09 14:09:27 +0300"
     },
     "done": true
   },
@@ -1103,6 +1151,12 @@
   "structurize:recipes/structurize.timber_frames/double_crossed_oak_paper_timber_frame": {
     "criteria": {
       "has_the_recipe": "2023-04-07 19:49:20 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_ladder": {
+    "criteria": {
+      "has_item": "2023-04-09 16:46:41 +0300"
     },
     "done": true
   },
@@ -1373,6 +1427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-09 15:23:33 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2023-04-01 20:53:03 +0300"
@@ -1427,6 +1487,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_wall_stonecutter": {
+    "criteria": {
+      "has_item": "2023-04-09 15:27:06 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed": {
     "criteria": {
       "has_green_wool": "2023-04-03 23:08:37 +0300"
@@ -1478,6 +1544,12 @@
   "tconstruct:recipes/tconstruct/general/tables/tinkers_chest": {
     "criteria": {
       "has_item": "2023-04-01 22:35:02 +0300"
+    },
+    "done": true
+  },
+  "structurize:recipes/structurize.timber_frames/plain_oak_cobblestone_timber_frame_crafted": {
+    "criteria": {
+      "has_the_recipe": "2023-04-09 14:08:59 +0300"
     },
     "done": true
   },
@@ -1620,6 +1692,7 @@
       "tool_binding": "2023-04-02 21:40:55 +0300",
       "broad_axe_head": "2023-04-02 21:40:55 +0300",
       "repair_kit": "2023-04-06 21:14:57 +0300",
+      "hammer_head": "2023-04-09 15:19:36 +0300",
       "broad_blade": "2023-04-02 18:18:16 +0300",
       "tool_handle": "2023-04-06 21:10:27 +0300",
       "pickaxe_head": "2023-04-02 21:40:55 +0300",
@@ -1762,6 +1835,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2023-04-07 19:55:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-09 15:23:33 +0300"
     },
     "done": true
   },
@@ -2024,6 +2103,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2023-04-09 15:27:06 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2023-04-02 15:27:25 +0300"
@@ -2134,7 +2219,8 @@
   },
   "tconstruct:smeltery/melter": {
     "criteria": {
-      "seared_table": "2023-04-02 16:14:00 +0300"
+      "seared_table": "2023-04-02 16:14:00 +0300",
+      "seared_basin": "2023-04-09 15:23:17 +0300"
     },
     "done": false
   },
@@ -2213,6 +2299,12 @@
   "create:recipes/create.palettes/gabbro_pillar_from_gabbro_stonecutting": {
     "criteria": {
       "has_gabbro": "2023-04-08 23:16:53 +0300"
+    },
+    "done": true
+  },
+  "structurize:recipes/structurize.timber_frames/plain_oak_cobblestone_timber_frame": {
+    "criteria": {
+      "has_plain_oak_cobblestone_timber_frame": "2023-04-09 14:09:00 +0300"
     },
     "done": true
   },
@@ -2306,6 +2398,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2023-04-09 16:37:04 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2023-04-01 22:28:14 +0300"
@@ -2342,6 +2440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-09 15:23:33 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2023-04-01 21:42:15 +0300"
@@ -2375,6 +2479,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_chestplate": "2023-04-02 01:13:04 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_from_brick": {
+    "criteria": {
+      "has_item": "2023-04-09 16:46:41 +0300"
     },
     "done": true
   },
@@ -2492,6 +2602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-09 15:23:33 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2023-04-09 01:58:21 +0300"
@@ -2552,6 +2668,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/melter": {
+    "criteria": {
+      "has_item": "2023-04-09 16:46:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2023-04-01 21:02:32 +0300"
@@ -2585,6 +2707,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2023-04-02 01:35:18 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/lantern": {
+    "criteria": {
+      "has_item": "2023-04-09 16:46:41 +0300"
     },
     "done": true
   },
@@ -2900,6 +3028,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_stone_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2023-04-09 15:24:15 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2023-04-01 20:48:21 +0300"
@@ -2909,6 +3043,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-01 21:48:44 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2023-04-09 16:37:04 +0300"
     },
     "done": true
   },
@@ -2978,6 +3118,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/channel": {
+    "criteria": {
+      "has_item": "2023-04-09 16:46:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2023-04-07 19:55:48 +0300"
@@ -2999,6 +3145,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2023-04-02 19:39:41 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_stone_slab": {
+    "criteria": {
+      "has_item": "2023-04-09 15:24:15 +0300"
     },
     "done": true
   },
@@ -3032,6 +3184,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stairs": {
+    "criteria": {
+      "has_item": "2023-04-09 15:27:06 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2023-04-07 20:27:21 +0300"
@@ -3044,6 +3202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-09 15:23:33 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2023-04-07 19:55:48 +0300"
@@ -3053,6 +3217,24 @@
   "minecolonies:minecolonies/citizen_eat_food_rotten_flesh": {
     "criteria": {
       "citizen_eat_rotten_flesh": "2023-04-09 01:07:37 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_paver_smelting": {
+    "criteria": {
+      "has_item": "2023-04-09 15:24:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-09 15:23:33 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_stone_stairs": {
+    "criteria": {
+      "has_item": "2023-04-09 15:24:15 +0300"
     },
     "done": true
   },
@@ -3212,6 +3394,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_triangle_bricks_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-04-09 15:24:15 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2023-04-01 22:35:25 +0300"
@@ -3251,6 +3439,12 @@
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-04-02 01:35:37 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/composted_dirt": {
+    "criteria": {
+      "has_compost": "2023-04-09 13:19:52 +0300"
     },
     "done": true
   },
@@ -3299,6 +3493,7 @@
       "minecraft:spider": "2023-04-01 22:06:29 +0300",
       "minecraft:creeper": "2023-04-02 14:00:29 +0300",
       "minecraft:slime": "2023-04-07 23:25:48 +0300",
+      "minecraft:phantom": "2023-04-09 19:49:52 +0300",
       "minecraft:zombified_piglin": "2023-04-07 21:10:08 +0300",
       "minecraft:witch": "2023-04-02 19:41:17 +0300",
       "minecraft:enderman": "2023-04-02 19:14:32 +0300",
@@ -3416,6 +3611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-09 15:23:33 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2023-04-02 17:34:14 +0300"
@@ -3457,6 +3658,12 @@
   "tconstruct:recipes/tconstruct/general/common/materials/copper_ingot_from_block": {
     "criteria": {
       "has_item": "2023-04-02 16:01:21 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_cracked_bricks_smelting": {
+    "criteria": {
+      "has_item": "2023-04-09 15:27:06 +0300"
     },
     "done": true
   },
@@ -3577,6 +3784,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2023-04-03 23:09:27 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/faucet": {
+    "criteria": {
+      "has_item": "2023-04-09 16:46:41 +0300"
     },
     "done": true
   },
@@ -3820,6 +4033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-09 15:23:33 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_cobblestone_slab_from_limestone_cobblestone_stonecutting": {
     "criteria": {
       "has_limestone_cobblestone": "2023-04-08 23:17:17 +0300"
@@ -3865,6 +4084,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2023-04-01 21:42:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-09 15:23:33 +0300"
     },
     "done": true
   },
@@ -4190,9 +4415,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-09 15:23:33 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2023-04-07 20:23:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-09 15:23:33 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/table": {
+    "criteria": {
+      "has_item": "2023-04-09 16:46:41 +0300"
     },
     "done": true
   },
@@ -4217,6 +4460,12 @@
   "create:recipes/create.palettes/polished_limestone": {
     "criteria": {
       "has_limestone": "2023-04-07 20:52:34 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_fancy_bricks_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-04-09 15:24:15 +0300"
     },
     "done": true
   },
@@ -4346,6 +4595,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_tank": {
+    "criteria": {
+      "has_item": "2023-04-09 16:46:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2023-04-02 17:25:13 +0300"
@@ -4419,6 +4674,12 @@
       "rotten_flesh": "2023-04-02 21:32:03 +0300"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-09 15:23:33 +0300"
+    },
+    "done": true
   },
   "minecolonies:recipes/minecolonies/resourcescroll": {
     "criteria": {
@@ -4636,6 +4897,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_crafting": {
+    "criteria": {
+      "has_item": "2023-04-09 15:24:15 +0300"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/abilities": {
     "criteria": {
       "gilded": "2023-04-07 23:06:18 +0300"
@@ -4711,6 +4978,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2023-04-01 21:22:00 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/chute": {
+    "criteria": {
+      "has_item": "2023-04-09 16:46:41 +0300"
     },
     "done": true
   },
@@ -4816,6 +5089,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_wall": {
+    "criteria": {
+      "has_item": "2023-04-09 15:27:06 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-01 21:48:44 +0300"
@@ -4825,6 +5104,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2023-04-01 21:22:00 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_stone_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2023-04-09 15:24:15 +0300"
     },
     "done": true
   },
@@ -4885,6 +5170,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2023-04-01 21:44:51 +0300"
+    },
+    "done": true
+  },
+  "structurize:recipes/structurize.timber_frames/plain_oak_oak_timber_frame_crafted": {
+    "criteria": {
+      "has_the_recipe": "2023-04-09 15:45:32 +0300"
     },
     "done": true
   },
@@ -5062,6 +5353,12 @@
     },
     "done": true
   },
+  "structurize:recipes/structurize.timber_frames/double_crossed_oak_oak_timber_frame": {
+    "criteria": {
+      "has_the_recipe": "2023-04-09 15:45:36 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2023-04-01 20:53:03 +0300"
@@ -5092,9 +5389,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-09 15:23:33 +0300"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/cast_chest": {
     "criteria": {
       "has_item": "2023-04-02 01:30:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-04-09 15:23:33 +0300"
     },
     "done": true
   },
@@ -5122,6 +5431,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/fuel_tank": {
+    "criteria": {
+      "has_item": "2023-04-09 16:46:41 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
     "criteria": {
       "has_item": "2023-04-09 01:59:55 +0300"
@@ -5137,6 +5452,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2023-04-01 22:32:13 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-04-09 15:24:15 +0300"
     },
     "done": true
   },
@@ -5158,6 +5479,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/heater": {
+    "criteria": {
+      "has_item": "2023-04-09 16:46:41 +0300"
+    },
+    "done": true
+  },
   "minecolonies:production/post_and_stash": {
     "criteria": {
       "postbox": "2023-04-09 00:25:25 +0300",
@@ -5168,6 +5495,12 @@
   "tconstruct:recipes/misc/common/slime/earth/slimeball_from_congealed": {
     "criteria": {
       "has_the_recipe": "2023-04-02 16:06:01 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_mysticalsite": {
+    "criteria": {
+      "mysticalsite": "2023-04-09 17:18:08 +0300"
     },
     "done": true
   },
@@ -5237,6 +5570,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2023-04-09 17:04:36 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2023-04-02 17:25:13 +0300"
@@ -5255,15 +5594,15 @@
     },
     "done": true
   },
-  "minecolonies:production/build_sawmill": {
-    "criteria": {
-      "sawmill": "2023-04-09 02:22:22 +0300"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/gabbro_cobblestone_wall_from_gabbro_cobblestone_stonecutting": {
     "criteria": {
       "has_gabbro_cobblestone": "2023-04-08 23:16:53 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_sawmill": {
+    "criteria": {
+      "sawmill": "2023-04-09 02:22:22 +0300"
     },
     "done": true
   },
@@ -5300,6 +5639,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2023-04-09 01:59:55 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/basin": {
+    "criteria": {
+      "has_item": "2023-04-09 16:46:41 +0300"
     },
     "done": true
   },
@@ -5424,6 +5769,12 @@
   "create:recipes/create.base/crafting/kinetics/windmill_bearing": {
     "criteria": {
       "has_item": "2023-04-09 01:58:20 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/fuel_gauge": {
+    "criteria": {
+      "has_item": "2023-04-09 16:46:41 +0300"
     },
     "done": true
   },
