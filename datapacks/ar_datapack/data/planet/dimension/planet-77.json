@@ -17,12 +17,52 @@
           "seed": 0,
           "biomes": [
 	    {
-              "biome": "minecraft:mushroom_fields",
+              "biome": "minecraft:marsh",
               "parameters": {
                 "altitude": 0.30650806,
-		"humidity": 1.0,
+		"humidity": 0.7,
+                "temperature": 0.5,				
+                "weirdness": 0.0,
+                "offset": 0
+              }
+            },
+	    {
+              "biome": "byg:prairie_clearing",
+              "parameters": {
+                "altitude": 0.4057547,
+		"humidity": 0.2,
+                "temperature": 0.8,				
+                "weirdness": 0.05,
+                "offset": 0
+              }
+            },
+	    {
+              "biome": "minecraft:deepswamp",
+              "parameters": {
+                "altitude": 0.016404748,
+		"humidity": 0.9,
                 "temperature": 0.9,				
+                "weirdness": 0.02,
+                "offset": 0
+              }
+            },
+	    {
+              "biome": "byg:snowy_blue_taiga_hills",
+              "parameters": {
+                "altitude": 0.13676673,
+		"humidity": 0.8,
+                "temperature": -0.5,				
                 "weirdness": 0.3,
+                "offset": 0
+              }
+            },
+	    {
+              "biome": "byg:skyris_steeps",
+              "parameters": {
+                "altitude": 0.9041739,
+		"humidity": 0.8,
+                "temperature": 0.25,				
+                "weirdness": 0.02,
                 "offset": 0
               }
             }

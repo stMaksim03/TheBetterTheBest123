@@ -589,6 +589,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/turtle_advanced_upgrade": {
+    "criteria": {
+      "has_components": "2023-04-08 23:47:19 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-04-01 21:59:54 +0300"
@@ -844,6 +850,12 @@
   "create:recipes/create.base/crafting/materials/brass_block_from_compacting": {
     "criteria": {
       "has_item": "2023-04-02 01:12:06 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/pocket_advanced/computercraft/wireless_modem_advanced": {
+    "criteria": {
+      "has_items": "2023-04-08 23:47:11 +0300"
     },
     "done": true
   },
@@ -1727,6 +1739,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/pocket_normal/computercraft/wireless_modem_advanced": {
+    "criteria": {
+      "has_items": "2023-04-08 23:46:52 +0300"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
       "large_plate": "2023-04-02 01:31:18 +0300",
@@ -1936,6 +1954,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/disk_16": {
+    "criteria": {
+      "has_drive": "2023-04-08 23:29:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2023-04-02 16:20:59 +0300",
@@ -1943,15 +1967,51 @@
     },
     "done": false
   },
+  "computercraft:recipes/computercraft/disk_14": {
+    "criteria": {
+      "has_drive": "2023-04-08 23:29:56 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_15": {
+    "criteria": {
+      "has_drive": "2023-04-08 23:29:56 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_12": {
+    "criteria": {
+      "has_drive": "2023-04-08 23:29:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-04-01 20:54:21 +0300"
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/disk_13": {
+    "criteria": {
+      "has_drive": "2023-04-08 23:29:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-04-01 22:36:22 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_10": {
+    "criteria": {
+      "has_drive": "2023-04-08 23:29:56 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_11": {
+    "criteria": {
+      "has_drive": "2023-04-08 23:29:56 +0300"
     },
     "done": true
   },
@@ -2189,6 +2249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2023-04-08 23:40:02 +0300"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/wireless_modem_normal": {
     "criteria": {
       "has_computer": "2023-04-08 19:41:10 +0300"
@@ -2216,6 +2282,12 @@
   "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
       "kill_pillager": "2023-04-01 23:03:31 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/turtle_normal/minecraft/diamond_pickaxe": {
+    "criteria": {
+      "has_items": "2023-04-08 21:48:07 +0300"
     },
     "done": true
   },
@@ -2381,6 +2453,18 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/disk_1": {
+    "criteria": {
+      "has_drive": "2023-04-08 23:29:56 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_2": {
+    "criteria": {
+      "has_drive": "2023-04-08 23:29:56 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/mossy_gabbro_from_gabbro_stonecutting": {
     "criteria": {
       "has_gabbro": "2023-04-02 01:34:53 +0300"
@@ -2447,9 +2531,45 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/disk_7": {
+    "criteria": {
+      "has_drive": "2023-04-08 23:29:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2023-04-07 21:43:53 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_8": {
+    "criteria": {
+      "has_drive": "2023-04-08 23:29:56 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_9": {
+    "criteria": {
+      "has_drive": "2023-04-08 23:29:56 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_3": {
+    "criteria": {
+      "has_drive": "2023-04-08 23:29:56 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_4": {
+    "criteria": {
+      "has_drive": "2023-04-08 23:29:56 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_5": {
+    "criteria": {
+      "has_drive": "2023-04-08 23:29:56 +0300"
     },
     "done": true
   },
@@ -2468,6 +2588,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2023-04-02 23:04:10 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/disk_6": {
+    "criteria": {
+      "has_drive": "2023-04-08 23:29:56 +0300"
     },
     "done": true
   },
@@ -3113,6 +3239,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2023-04-08 23:40:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2023-04-01 21:59:54 +0300"
@@ -3170,6 +3302,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2023-04-02 22:27:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2023-04-08 22:37:53 +0300"
     },
     "done": true
   },
@@ -3260,6 +3398,12 @@
   "tconstruct:recipes/tconstruct/world/world/wood/greenheart/slab": {
     "criteria": {
       "has_planks": "2023-04-02 20:32:09 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_eat_food_rotten_flesh": {
+    "criteria": {
+      "citizen_eat_rotten_flesh": "2023-04-09 01:07:37 +0300"
     },
     "done": true
   },
@@ -4190,6 +4334,7 @@
       "minecraft:deep_cold_ocean": "2023-04-04 23:15:19 +0300",
       "minecraft:desert": "2023-04-04 23:11:31 +0300",
       "minecraft:jungle": "2023-04-01 22:32:27 +0300",
+      "minecraft:jungle_hills": "2023-04-08 23:25:03 +0300",
       "minecraft:beach": "2023-04-01 22:06:31 +0300",
       "minecraft:river": "2023-04-01 19:59:47 +0300",
       "minecraft:lukewarm_ocean": "2023-04-02 01:18:53 +0300",
@@ -4540,6 +4685,12 @@
     },
     "done": true
   },
+  "minecolonies:production/build_miner": {
+    "criteria": {
+      "miner": "2023-04-09 01:38:52 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2023-04-04 19:31:50 +0300"
@@ -4654,6 +4805,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/pocket_computer_advanced_upgrade": {
+    "criteria": {
+      "has_components": "2023-04-08 23:46:52 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2023-04-02 16:28:17 +0300"
@@ -4693,6 +4850,12 @@
   "tconstruct:recipes/tconstruct/world/world/wood/skyroot/slab": {
     "criteria": {
       "has_planks": "2023-04-02 16:32:14 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/turtle_normal/computercraft/wireless_modem_advanced": {
+    "criteria": {
+      "has_items": "2023-04-08 23:47:19 +0300"
     },
     "done": true
   },
@@ -5144,6 +5307,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2023-04-01 22:36:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2023-04-08 23:40:02 +0300"
     },
     "done": true
   },
@@ -5645,6 +5814,12 @@
     },
     "done": true
   },
+  "minecolonies:production/build_sawmill": {
+    "criteria": {
+      "sawmill": "2023-04-09 02:22:22 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2023-04-02 01:01:55 +0300"
@@ -5720,6 +5895,12 @@
   "createautomated:recipes/createautomated/picker": {
     "criteria": {
       "has_string": "2023-04-02 00:57:05 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/pocket_advanced/computercraft/wireless_modem_normal": {
+    "criteria": {
+      "has_items": "2023-04-09 00:06:42 +0300"
     },
     "done": true
   },

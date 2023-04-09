@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2023-04-08 23:36:12 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2023-04-07 20:55:57 +0300"
@@ -605,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2023-04-08 23:29:00 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-04-02 16:36:54 +0300"
@@ -769,11 +781,13 @@
       "minecraft:skeleton": "2023-04-02 17:06:18 +0300",
       "minecraft:spider": "2023-04-02 21:57:35 +0300",
       "minecraft:slime": "2023-04-02 21:59:14 +0300",
+      "minecraft:phantom": "2023-04-09 01:44:02 +0300",
       "minecraft:cave_spider": "2023-04-03 20:52:48 +0300",
       "minecraft:silverfish": "2023-04-03 20:52:47 +0300",
       "minecraft:enderman": "2023-04-04 23:47:35 +0300",
       "minecraft:zombie": "2023-04-02 17:28:19 +0300",
-      "minecraft:drowned": "2023-04-04 20:03:05 +0300"
+      "minecraft:drowned": "2023-04-04 20:03:05 +0300",
+      "minecraft:zombie_villager": "2023-04-09 01:45:49 +0300"
     },
     "done": false
   },
@@ -849,6 +863,12 @@
     },
     "done": true
   },
+  "experimental_m:tallgrassesensirio": {
+    "criteria": {
+      "tallgrassesensirio": "2023-04-09 00:38:40 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-04-02 16:52:30 +0300"
@@ -882,6 +902,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2023-04-02 16:31:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2023-04-09 01:11:55 +0300"
     },
     "done": true
   },
@@ -939,6 +965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2023-04-09 01:11:55 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2023-04-02 16:52:30 +0300"
@@ -990,6 +1022,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2023-04-03 23:00:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2023-04-09 01:34:25 +0300"
     },
     "done": true
   },
@@ -1062,6 +1100,12 @@
   "create:recipes/create.base/crafting/logistics/adjustable_repeater": {
     "criteria": {
       "has_item": "2023-04-02 17:22:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2023-04-08 23:29:00 +0300"
     },
     "done": true
   },
@@ -1455,6 +1499,7 @@
       "minecraft:cold_ocean": "2023-04-03 21:12:01 +0300",
       "minecraft:forest": "2023-04-02 18:17:25 +0300",
       "minecraft:mushroom_fields": "2023-04-03 21:12:53 +0300",
+      "minecraft:mountains": "2023-04-09 00:15:41 +0300",
       "minecraft:desert_hills": "2023-04-03 20:02:21 +0300",
       "minecraft:deep_cold_ocean": "2023-04-03 21:15:54 +0300",
       "minecraft:desert": "2023-04-03 20:02:04 +0300",
@@ -1467,6 +1512,9 @@
       "minecraft:river": "2023-04-02 16:14:15 +0300",
       "minecraft:lukewarm_ocean": "2023-04-03 19:17:24 +0300",
       "minecraft:birch_forest_hills": "2023-04-03 20:46:00 +0300",
+      "minecraft:wooded_mountains": "2023-04-09 00:15:19 +0300",
+      "minecraft:wooded_hills": "2023-04-09 00:04:46 +0300",
+      "minecraft:stone_shore": "2023-04-09 00:18:25 +0300",
       "minecraft:mushroom_field_shore": "2023-04-03 21:12:04 +0300",
       "minecraft:swamp": "2023-04-03 20:46:15 +0300",
       "minecraft:plains": "2023-04-03 20:44:08 +0300"
@@ -1569,6 +1617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2023-04-09 01:11:55 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dolomite_cobblestone_wall": {
     "criteria": {
       "has_dolomite_cobblestone": "2023-04-02 17:11:53 +0300"
@@ -1620,6 +1674,12 @@
   "tconstruct:tools/tinker_tool": {
     "criteria": {
       "crafted_tool": "2023-04-02 23:10:14 +0300"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/computer_advanced": {
+    "criteria": {
+      "has_components": "2023-04-09 00:39:10 +0300"
     },
     "done": true
   },
@@ -1806,6 +1866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2023-04-09 01:11:55 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2023-04-02 16:36:54 +0300"
@@ -1896,6 +1962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2023-04-09 00:59:12 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-04-02 16:48:03 +0300"
@@ -1914,9 +1986,21 @@
     },
     "done": true
   },
+  "minecolonies:production/build_miner": {
+    "criteria": {
+      "miner": "2023-04-09 01:38:52 +0300"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2023-04-02 16:37:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2023-04-09 00:47:45 +0300"
     },
     "done": true
   },
@@ -2046,6 +2130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2023-04-09 01:11:55 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2023-04-02 16:16:00 +0300"
@@ -2155,6 +2245,7 @@
       "cooked_beef": "2023-04-04 20:59:36 +0300",
       "baked_potato": "2023-04-02 22:05:10 +0300",
       "tropical_fish": "2023-04-02 19:12:21 +0300",
+      "apple": "2023-04-08 23:38:54 +0300",
       "potato": "2023-04-03 22:33:46 +0300",
       "cooked_cod": "2023-04-02 19:24:12 +0300",
       "bread": "2023-04-03 21:04:59 +0300",
@@ -2382,6 +2473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2023-04-09 01:11:55 +0300"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailboots": {
     "criteria": {
       "has_iron": "2023-04-02 16:22:55 +0300"
@@ -2532,6 +2629,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/computercraft/computer_normal": {
+    "criteria": {
+      "has_redstone": "2023-04-08 22:21:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2023-04-02 16:22:55 +0300"
@@ -2559,6 +2662,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2023-04-02 17:22:23 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2023-04-08 22:44:48 +0300"
     },
     "done": true
   },
@@ -2655,6 +2764,12 @@
   "create:recipes/create.base/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2023-04-02 16:57:01 +0300"
+    },
+    "done": true
+  },
+  "experimental_m:endongologro": {
+    "criteria": {
+      "endongologro": "2023-04-09 01:10:16 +0300"
     },
     "done": true
   },
@@ -2817,6 +2932,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2023-04-03 21:23:57 +0300"
+    },
+    "done": true
+  },
+  "experimental_m:deadforestlogro": {
+    "criteria": {
+      "deadforestlogro": "2023-04-09 00:30:03 +0300"
     },
     "done": true
   },
@@ -3357,6 +3478,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2023-04-02 16:49:08 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2023-04-09 01:11:55 +0300"
     },
     "done": true
   },

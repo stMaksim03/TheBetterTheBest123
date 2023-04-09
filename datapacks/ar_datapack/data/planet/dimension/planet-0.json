@@ -17,52 +17,12 @@
           "seed": 0,
           "biomes": [
 	    {
-              "biome": "byg:magma_wastes",
+              "biome": "minecraft:mushroom_fields",
               "parameters": {
                 "altitude": 0.30650806,
-		"humidity": 0.4,
-                "temperature": 0.8,				
-                "weirdness": 0.05,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "byg:snowy_rocky_black_beach",
-              "parameters": {
-                "altitude": 0.4057547,
-		"humidity": 0.4,
-                "temperature": 0.0,				
-                "weirdness": 0.025,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "byg:orchard",
-              "parameters": {
-                "altitude": 0.016404748,
-		"humidity": 0.8,
-                "temperature": 0.8,				
-                "weirdness": 0.15,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "byg:wooded_grassland_plateau",
-              "parameters": {
-                "altitude": 0.13676673,
-		"humidity": 0.4,
-                "temperature": 0.7,				
-                "weirdness": 0.0,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "byg:purpur_peaks",
-              "parameters": {
-                "altitude": 0.9041739,
-		"humidity": 0.8,
-                "temperature": 0.8,				
-                "weirdness": 0.15,
+		"humidity": 1.0,
+                "temperature": 0.9,				
+                "weirdness": 0.3,
                 "offset": 0
               }
             }
