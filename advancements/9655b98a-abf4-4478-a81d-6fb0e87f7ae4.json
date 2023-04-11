@@ -1384,8 +1384,10 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "string": "2023-04-11 20:43:13 +0300",
       "slimewood": "2023-04-02 01:41:06 +0300",
       "wood": "2023-04-01 22:41:03 +0300",
+      "slimesteel": "2023-04-11 20:43:13 +0300",
       "stone": "2023-04-01 22:37:20 +0300",
       "iron": "2023-04-02 01:28:28 +0300"
     },
@@ -1719,6 +1721,7 @@
     "criteria": {
       "large_plate": "2023-04-02 01:30:35 +0300",
       "tough_handle": "2023-04-02 18:17:45 +0300",
+      "small_blade": "2023-04-11 21:01:27 +0300",
       "tool_binding": "2023-04-02 21:40:55 +0300",
       "broad_axe_head": "2023-04-02 21:40:55 +0300",
       "repair_kit": "2023-04-06 21:14:57 +0300",
@@ -2094,6 +2097,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-04-01 21:08:33 +0300"
+    },
+    "done": true
+  },
+  "tinkersarchery:recipes/awesome_archery": {
+    "criteria": {
+      "has_the_recipe": "2023-04-11 20:46:47 +0300"
     },
     "done": true
   },
