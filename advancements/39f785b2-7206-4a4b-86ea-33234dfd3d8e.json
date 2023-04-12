@@ -665,6 +665,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2023-04-12 20:32:51 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-04-02 16:36:54 +0300"
@@ -844,6 +850,7 @@
       "minecraft:spider": "2023-04-02 21:57:35 +0300",
       "minecraft:slime": "2023-04-02 21:59:14 +0300",
       "minecraft:phantom": "2023-04-09 01:44:02 +0300",
+      "minecraft:witch": "2023-04-12 20:12:59 +0300",
       "minecraft:wither_skeleton": "2023-04-11 20:51:32 +0300",
       "minecraft:cave_spider": "2023-04-03 20:52:48 +0300",
       "minecraft:silverfish": "2023-04-03 20:52:47 +0300",
@@ -1338,6 +1345,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2023-04-02 16:22:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2023-04-12 20:13:00 +0300"
     },
     "done": true
   },
@@ -3101,6 +3114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2023-04-12 20:12:59 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2023-04-02 17:27:04 +0300"
@@ -3434,6 +3453,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2023-04-03 19:47:28 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2023-04-12 20:13:00 +0300"
     },
     "done": true
   },
@@ -3869,6 +3894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2023-04-12 20:44:58 +0300"
+    },
+    "done": true
+  },
   "minecolonies:production/build_cook": {
     "criteria": {
       "cook": "2023-04-02 16:31:45 +0300"
@@ -3878,6 +3909,12 @@
   "create:recipes/create.palettes/dolomite_cobblestone_slab_from_dolomite_cobblestone_stonecutting": {
     "criteria": {
       "has_dolomite_cobblestone": "2023-04-02 17:11:53 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2023-04-12 20:13:00 +0300"
     },
     "done": true
   },
