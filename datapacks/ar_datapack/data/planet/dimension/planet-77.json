@@ -17,52 +17,52 @@
           "seed": 0,
           "biomes": [
 	    {
-              "biome": "minecraft:oceanspires",
+              "biome": "byg:cika_woods",
               "parameters": {
                 "altitude": 0.30650806,
-		"humidity": 0.7,
-                "temperature": 0.5,				
-                "weirdness": 0.0,
+		"humidity": 0.5,
+                "temperature": 0.35,				
+                "weirdness": 0.2,
                 "offset": 0
               }
             },
 	    {
-              "biome": "byg:cold_swamplands",
+              "biome": "byg:cika_mountains",
               "parameters": {
                 "altitude": 0.4057547,
-		"humidity": 0.8,
-                "temperature": 0.25,				
-                "weirdness": 0.1,
+		"humidity": 0.5,
+                "temperature": 0.35,				
+                "weirdness": 0.5,
                 "offset": 0
               }
             },
 	    {
-              "biome": "byg:evergreen_hills",
+              "biome": "byg:brimstone_caverns",
               "parameters": {
                 "altitude": 0.016404748,
-		"humidity": 0.8,
-                "temperature": 0.25,				
-                "weirdness": 0.25,
+		"humidity": 0.4,
+                "temperature": 0.8,				
+                "weirdness": 0.05,
                 "offset": 0
               }
             },
 	    {
-              "biome": "byg:dummy",
+              "biome": "byg:warped_desert",
               "parameters": {
                 "altitude": 0.13676673,
 		"humidity": 0.4,
-                "temperature": 0.7,				
-                "weirdness": 0.0,
+                "temperature": 0.8,				
+                "weirdness": 0.05,
                 "offset": 0
               }
             },
 	    {
-              "biome": "minecraft:warm_ocean",
+              "biome": "minecraft:end_barrens",
               "parameters": {
                 "altitude": 0.9041739,
 		"humidity": 0.5,
                 "temperature": 0.5,				
-                "weirdness": 0.1,
+                "weirdness": 0.2,
                 "offset": 0
               }
             }
