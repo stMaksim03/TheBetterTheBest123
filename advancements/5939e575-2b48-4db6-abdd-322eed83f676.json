@@ -1668,6 +1668,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_item": "2023-04-18 20:15:03 +0300"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2023-04-02 13:58:56 +0300"
@@ -3471,6 +3477,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/fancy_frame/clear": {
     "criteria": {
       "has_item": "2023-04-04 22:06:59 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_item": "2023-04-18 20:15:03 +0300"
     },
     "done": true
   },

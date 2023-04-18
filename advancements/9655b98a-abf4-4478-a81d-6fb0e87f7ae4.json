@@ -3645,6 +3645,12 @@
     },
     "done": true
   },
+  "experimental_m:infinitevenonlogro": {
+    "criteria": {
+      "infinitevenonlogro": "2023-04-18 20:38:13 +0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2023-04-01 22:28:49 +0300",
@@ -5955,6 +5961,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2023-04-01 21:30:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2023-04-18 19:44:01 +0300"
     },
     "done": true
   },
