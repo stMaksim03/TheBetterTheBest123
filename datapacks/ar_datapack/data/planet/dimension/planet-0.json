@@ -17,52 +17,52 @@
           "seed": 0,
           "biomes": [
 	    {
-              "biome": "minecraft:wooded_hills",
+              "biome": "byg:snowy_evergreen_hills",
               "parameters": {
                 "altitude": 0.30650806,
 		"humidity": 0.8,
-                "temperature": 0.7,				
-                "weirdness": 0.3,
+                "temperature": -0.5,				
+                "weirdness": 0.1,
                 "offset": 0
               }
             },
 	    {
-              "biome": "minecraft:snowy_beach",
+              "biome": "byg:bamboo_forest",
               "parameters": {
                 "altitude": 0.4057547,
-		"humidity": 0.3,
-                "temperature": 0.05,				
-                "weirdness": 0.025,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "byg:purpur_peaks",
-              "parameters": {
-                "altitude": 0.016404748,
 		"humidity": 0.8,
-                "temperature": 0.8,				
-                "weirdness": 0.15,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "minecraft:taiga",
-              "parameters": {
-                "altitude": 0.13676673,
-		"humidity": 0.8,
-                "temperature": 0.25,				
+                "temperature": 0.7,				
                 "weirdness": 0.2,
                 "offset": 0
               }
             },
 	    {
-              "biome": "minecraft:snowy_taiga_mountains",
+              "biome": "byg:prairie",
+              "parameters": {
+                "altitude": 0.016404748,
+		"humidity": 0.2,
+                "temperature": 0.8,				
+                "weirdness": 0.05,
+                "offset": 0
+              }
+            },
+	    {
+              "biome": "byg:flowering_meadow",
+              "parameters": {
+                "altitude": 0.13676673,
+		"humidity": 0.8,
+                "temperature": 0.8,				
+                "weirdness": 0.1,
+                "offset": 0
+              }
+            },
+	    {
+              "biome": "minecraft:stormland",
               "parameters": {
                 "altitude": 0.9041739,
-		"humidity": 0.4,
-                "temperature": -0.5,				
-                "weirdness": 0.4,
+		"humidity": 2.0,
+                "temperature": 0.6,				
+                "weirdness": 0.1,
                 "offset": 0
               }
             }
