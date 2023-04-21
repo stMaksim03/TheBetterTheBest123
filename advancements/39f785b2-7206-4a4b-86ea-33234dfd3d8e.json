@@ -2107,6 +2107,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-04-20 21:10:49 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2023-04-02 22:42:58 +0300"
@@ -2290,6 +2296,12 @@
   "create:recipes/create.base/smelting/copper_ingot_from_ore": {
     "criteria": {
       "has_item": "2023-04-02 17:04:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2023-04-20 21:35:50 +0300"
     },
     "done": true
   },
@@ -3939,6 +3951,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2023-04-20 21:10:49 +0300"
+    },
+    "done": true
+  },
   "tinkersarchery:recipes/tantalum_ingot": {
     "criteria": {
       "has_ore": "2023-04-11 23:26:56 +0300",
@@ -4393,6 +4411,12 @@
   "create:recipes/create.palettes/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2023-04-04 20:50:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2023-04-20 21:35:50 +0300"
     },
     "done": true
   },

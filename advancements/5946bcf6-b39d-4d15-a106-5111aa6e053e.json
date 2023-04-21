@@ -3198,6 +3198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2023-04-20 21:14:54 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2023-04-05 21:43:28 +0300"
@@ -6187,6 +6193,12 @@
   "create:recipes/create.palettes/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2023-04-03 23:24:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2023-04-20 21:14:54 +0300"
     },
     "done": true
   },

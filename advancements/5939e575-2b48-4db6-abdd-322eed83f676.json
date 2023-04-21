@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2023-04-01 21:58:22 +0300"
@@ -116,6 +122,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-04-04 22:06:59 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -317,6 +329,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/sticky_mechanical_piston": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2023-04-02 17:32:18 +0300"
@@ -350,6 +368,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2023-04-01 21:57:43 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -398,6 +422,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2023-04-01 21:58:22 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/metal_bracket": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -455,6 +485,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/basin": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2023-04-01 21:54:41 +0300"
@@ -482,6 +518,12 @@
   "create:recipes/create.palettes/fancy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-04-01 22:38:25 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_mixer": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -572,6 +614,12 @@
   "minecolonies:recipes/minecolonies/blockhutlumberjackstone": {
     "criteria": {
       "has_items": "2023-04-02 18:31:58 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gantry_shaft": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -744,6 +792,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/andesite_casing": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2023-04-01 22:36:39 +0300"
@@ -818,6 +872,12 @@
       "minecraft:zombie_villager": "2023-04-04 19:26:31 +0300"
     },
     "done": false
+  },
+  "create:recipes/create.base/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
+    },
+    "done": true
   },
   "create:recipes/create.palettes/smelting/scoria": {
     "criteria": {
@@ -909,6 +969,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/radial_chassis": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2023-04-01 23:15:19 +0300"
@@ -918,6 +984,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2023-04-03 21:45:07 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/cart_assembler": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:42 +0300"
     },
     "done": true
   },
@@ -1049,6 +1121,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/shaft": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_cobblestone_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-04-01 22:38:25 +0300"
@@ -1106,6 +1184,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2023-04-02 17:41:59 +0300"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -1217,6 +1301,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/cuckoo_clock": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-02 18:34:09 +0300"
@@ -1259,6 +1349,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/large_cogwheel": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2023-04-01 23:35:19 +0300"
@@ -1298,6 +1394,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2023-04-01 21:57:43 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -1355,6 +1457,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/sail_frame": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2023-04-01 21:54:41 +0300"
@@ -1370,6 +1478,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2023-04-09 16:03:10 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/andesite_tunnel": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -1394,6 +1508,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2023-04-01 21:57:43 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/wrench": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -1496,6 +1616,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2023-04-01 21:57:52 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/chute": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -1752,6 +1878,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/cogwheel": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-04-02 15:17:04 +0300"
@@ -1836,6 +1968,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2023-04-01 21:57:43 +0300"
@@ -1884,6 +2022,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/hand_crank": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2023-04-01 22:48:39 +0300"
@@ -1905,6 +2049,12 @@
   "tconstruct:recipes/redstone/common/slime/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2023-04-02 22:08:09 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/minecart_coupling": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -2247,6 +2397,12 @@
   "tconstruct:recipes/tconstruct/general/tables/scorched_forge": {
     "criteria": {
       "has_item": "2023-04-09 15:14:50 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/analog_lever": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -2657,6 +2813,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/rope_pulley": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:42 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2023-04-01 21:58:22 +0300"
@@ -2684,6 +2846,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2023-04-01 21:58:22 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/andesite_funnel": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -2774,6 +2942,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2023-04-01 21:54:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2023-04-20 22:29:15 +0300"
     },
     "done": true
   },
@@ -2951,6 +3125,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2023-04-01 22:11:48 +0300"
@@ -2966,6 +3146,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2023-04-04 21:59:03 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/wooden_bracket": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -2990,6 +3176,12 @@
   "create:recipes/create.palettes/granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-04-02 15:17:04 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/speedometer": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -3255,6 +3447,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-04-04 21:56:51 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/goggles": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -3558,6 +3756,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/turntable": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2023-04-01 23:35:18 +0300"
@@ -3612,6 +3816,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-04-20 22:29:15 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/gabbro": {
     "criteria": {
       "has_gabbro_cobblestone": "2023-04-04 21:51:08 +0300"
@@ -3645,6 +3855,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2023-04-04 21:59:03 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/sticker": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -3786,6 +4002,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/filter": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/colony_population_5": {
     "criteria": {
       "population_5": "2023-04-07 19:21:41 +0300"
@@ -3912,6 +4134,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2023-04-02 18:30:16 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/windmill_bearing": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
@@ -4134,6 +4362,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-04-02 19:31:48 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/linear_chassis": {
+    "criteria": {
+      "has_item": "2023-04-20 22:10:41 +0300"
     },
     "done": true
   },
