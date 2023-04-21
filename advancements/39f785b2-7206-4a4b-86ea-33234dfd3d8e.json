@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2023-04-21 21:20:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2023-04-02 16:22:55 +0300"
@@ -182,6 +188,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2023-04-02 16:22:55 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_glass": {
+    "criteria": {
+      "has_item": "2023-04-21 21:21:35 +0300"
     },
     "done": true
   },
@@ -395,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2023-04-21 21:12:17 +0300"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailleggings": {
     "criteria": {
       "has_iron": "2023-04-02 16:22:55 +0300"
@@ -523,6 +541,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_gauge": {
+    "criteria": {
+      "has_item": "2023-04-21 21:21:35 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2023-04-15 22:29:02 +0300"
@@ -532,6 +556,12 @@
   "tconstruct:recipes/tconstruct/general/common/materials/pig_iron_nugget_from_ingot": {
     "criteria": {
       "has_item": "2023-04-09 15:59:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-04-21 21:12:17 +0300"
     },
     "done": true
   },
@@ -589,6 +619,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/red_sand_cast": {
+    "criteria": {
+      "has_casting": "2023-04-21 21:55:41 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/drain": {
+    "criteria": {
+      "has_item": "2023-04-21 21:21:35 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2023-04-02 16:52:30 +0300"
@@ -619,9 +661,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-04-21 21:20:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-04-02 18:36:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-04-21 21:12:17 +0300"
     },
     "done": true
   },
@@ -682,6 +736,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2023-04-02 16:30:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-04-21 21:12:17 +0300"
     },
     "done": true
   },
@@ -895,6 +955,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_ladder": {
+    "criteria": {
+      "has_item": "2023-04-21 21:21:35 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2023-04-02 21:59:22 +0300"
@@ -1021,6 +1087,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-04-21 21:12:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_acacia_planks": "2023-04-21 21:20:03 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2023-04-03 20:52:21 +0300"
@@ -1048,6 +1126,7 @@
   "tconstruct:tools/material_master": {
     "criteria": {
       "slimewood": "2023-04-04 20:57:31 +0300",
+      "rose_gold": "2023-04-21 21:48:14 +0300",
       "stone": "2023-04-02 23:10:14 +0300",
       "pig_iron": "2023-04-03 19:20:41 +0300",
       "iron": "2023-04-07 21:09:57 +0300",
@@ -1519,6 +1598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2023-04-21 21:20:03 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2023-04-03 20:02:57 +0300"
@@ -1807,6 +1892,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_table": "2023-04-21 21:55:42 +0300"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2023-04-04 21:56:45 +0300"
@@ -1927,6 +2018,12 @@
     },
     "done": true
   },
+  "tinkers_reforged:recipes/duralumin_ingot_to_block": {
+    "criteria": {
+      "has_ingot": "2023-04-21 21:21:35 +0300"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/pocket_computer_normal": {
     "criteria": {
       "has_apple": "2023-04-09 16:37:08 +0300"
@@ -1936,6 +2033,12 @@
   "create:recipes/create.base/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2023-04-02 16:57:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-04-21 21:12:17 +0300"
     },
     "done": true
   },
@@ -1975,6 +2078,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_from_brick": {
+    "criteria": {
+      "has_item": "2023-04-21 21:21:35 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-04-02 16:14:46 +0300"
@@ -1984,6 +2093,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-03 23:00:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-04-21 21:12:17 +0300"
     },
     "done": true
   },
@@ -2014,6 +2129,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2023-04-03 20:02:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-04-21 21:20:03 +0300"
     },
     "done": true
   },
@@ -2131,6 +2252,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/melter": {
+    "criteria": {
+      "has_item": "2023-04-21 21:21:35 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2023-04-02 16:49:08 +0300"
@@ -2143,9 +2270,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2023-04-21 21:56:37 +0300"
+    },
+    "done": true
+  },
   "experimental_m:tallgrasseslogro": {
     "criteria": {
       "tallgrasseslogro": "2023-04-02 16:12:58 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/lantern": {
+    "criteria": {
+      "has_item": "2023-04-21 21:21:35 +0300"
     },
     "done": true
   },
@@ -2437,6 +2576,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_stone_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2023-04-21 21:23:13 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2023-04-02 16:31:07 +0300"
@@ -2521,6 +2666,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/channel": {
+    "criteria": {
+      "has_item": "2023-04-21 21:21:35 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2023-04-03 19:46:21 +0300"
@@ -2539,9 +2690,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-04-21 21:12:17 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2023-04-03 20:03:25 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_stone_slab": {
+    "criteria": {
+      "has_item": "2023-04-21 21:23:13 +0300"
     },
     "done": true
   },
@@ -2599,6 +2762,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_paver_smelting": {
+    "criteria": {
+      "has_item": "2023-04-21 21:23:13 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_stone_stairs": {
+    "criteria": {
+      "has_item": "2023-04-21 21:23:13 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2023-04-03 20:52:33 +0300"
@@ -2650,6 +2825,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-04-07 20:55:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2023-04-21 21:20:03 +0300"
     },
     "done": true
   },
@@ -2716,6 +2897,12 @@
   "create:recipes/create.palettes/gabbro_cobblestone_slab_from_gabbro_cobblestone_stonecutting": {
     "criteria": {
       "has_gabbro_cobblestone": "2023-04-02 17:09:08 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_triangle_bricks_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-04-21 21:23:13 +0300"
     },
     "done": true
   },
@@ -2957,6 +3144,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_block_from_ingots": {
+    "criteria": {
+      "has_item": "2023-04-21 21:56:37 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2023-04-02 16:31:07 +0300"
@@ -3041,6 +3234,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2023-04-21 21:20:00 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/faucet": {
+    "criteria": {
+      "has_item": "2023-04-21 21:21:35 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2023-04-08 23:29:00 +0300"
@@ -3104,6 +3309,12 @@
   "create:recipes/create.base/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2023-04-02 16:57:01 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/slimesteel_ingot_from_block": {
+    "criteria": {
+      "has_item": "2023-04-21 21:30:58 +0300"
     },
     "done": true
   },
@@ -3191,6 +3402,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/sand_cast": {
+    "criteria": {
+      "has_casting": "2023-04-21 21:55:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2023-04-04 22:33:29 +0300"
@@ -3266,6 +3483,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2023-04-02 16:36:54 +0300"
+    },
+    "done": true
+  },
+  "tinkers_reforged:recipes/duralumin_block_to_ingot": {
+    "criteria": {
+      "has_block": "2023-04-21 21:30:58 +0300"
     },
     "done": true
   },
@@ -3449,6 +3672,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/slimesteel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2023-04-21 21:29:16 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_cobblestone_slab": {
     "criteria": {
       "has_limestone_cobblestone": "2023-04-02 16:52:45 +0300"
@@ -3521,6 +3750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2023-04-21 21:20:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2023-04-02 16:39:58 +0300"
@@ -3539,9 +3774,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/table": {
+    "criteria": {
+      "has_item": "2023-04-21 21:21:35 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2023-04-02 16:36:54 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/netherite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2023-04-21 21:12:17 +0300"
     },
     "done": true
   },
@@ -3554,6 +3801,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2023-04-09 00:59:12 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_fancy_bricks_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-04-21 21:23:13 +0300"
     },
     "done": true
   },
@@ -3683,6 +3936,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_tank": {
+    "criteria": {
+      "has_item": "2023-04-21 21:21:35 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2023-04-02 17:08:51 +0300"
@@ -3764,6 +4023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-04-21 21:12:17 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2023-04-02 16:31:07 +0300"
@@ -3773,6 +4038,12 @@
   "tconstruct:recipes/tools/common/slime/lead": {
     "criteria": {
       "has_slime_ball": "2023-04-02 21:59:22 +0300"
+    },
+    "done": true
+  },
+  "tinkers_reforged:recipes/duralumin_ingot_to_nugget": {
+    "criteria": {
+      "has_ingot": "2023-04-21 21:21:35 +0300"
     },
     "done": true
   },
@@ -3938,6 +4209,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_crafting": {
+    "criteria": {
+      "has_item": "2023-04-21 21:23:13 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/weathered_limestone_cobblestone_stairs": {
     "criteria": {
       "has_weathered_limestone_cobblestone": "2023-04-04 22:39:13 +0300"
@@ -3967,6 +4244,12 @@
   "create:shifting_gears": {
     "criteria": {
       "0": "2023-04-18 19:56:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2023-04-21 21:20:03 +0300"
     },
     "done": true
   },
@@ -4027,6 +4310,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2023-04-02 17:27:04 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/chute": {
+    "criteria": {
+      "has_item": "2023-04-21 21:21:35 +0300"
     },
     "done": true
   },
@@ -4123,6 +4412,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2023-04-02 17:27:04 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_stone_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2023-04-21 21:23:13 +0300"
     },
     "done": true
   },
@@ -4270,6 +4565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-04-21 21:20:02 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2023-04-02 16:48:38 +0300"
@@ -4348,9 +4649,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/fuel_tank": {
+    "criteria": {
+      "has_item": "2023-04-21 21:21:35 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
     "criteria": {
       "has_item": "2023-04-15 22:03:22 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2023-04-21 21:20:02 +0300"
     },
     "done": true
   },
@@ -4372,15 +4685,45 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-04-21 21:23:13 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2023-04-02 16:40:18 +0300"
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2023-04-21 21:25:56 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/heater": {
+    "criteria": {
+      "has_item": "2023-04-21 21:21:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2023-04-21 21:12:17 +0300"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/build_mysticalsite": {
     "criteria": {
       "mysticalsite": "2023-04-09 17:18:08 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/earth/slimeball_from_congealed": {
+    "criteria": {
+      "has_item": "2023-04-21 21:25:56 +0300"
     },
     "done": true
   },
@@ -4417,6 +4760,12 @@
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2023-04-20 21:35:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2023-04-21 21:20:00 +0300"
     },
     "done": true
   },
@@ -4486,6 +4835,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/basin": {
+    "criteria": {
+      "has_item": "2023-04-21 21:21:35 +0300"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/efln_ball": {
     "criteria": {
       "has_item": "2023-04-12 20:13:00 +0300"
@@ -4549,6 +4904,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2023-04-21 21:07:55 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2023-04-04 21:56:45 +0300"
@@ -4609,9 +4970,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/materials/slimesteel_block_from_ingots": {
+    "criteria": {
+      "has_item": "2023-04-21 21:29:16 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dolomite_cobblestone_slab": {
     "criteria": {
       "has_dolomite_cobblestone": "2023-04-02 17:11:53 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/fuel_gauge": {
+    "criteria": {
+      "has_item": "2023-04-21 21:21:35 +0300"
     },
     "done": true
   },
@@ -4654,6 +5027,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2023-04-03 19:49:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-04-21 21:12:17 +0300"
     },
     "done": true
   },

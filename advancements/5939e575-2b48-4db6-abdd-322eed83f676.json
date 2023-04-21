@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/brewing/common/slime/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2023-04-21 21:31:35 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2023-04-01 21:56:32 +0300"
@@ -239,6 +245,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2023-04-21 21:31:38 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2023-04-04 21:56:51 +0300"
@@ -272,6 +284,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting": {
     "criteria": {
       "has_gold_ore": "2023-04-01 22:03:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2023-04-21 19:55:06 +0300"
     },
     "done": true
   },
@@ -858,6 +876,12 @@
     },
     "done": true
   },
+  "experimental_m:infinitevenonlogro": {
+    "criteria": {
+      "infinitevenonlogro": "2023-04-21 20:29:51 +0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2023-04-01 23:17:37 +0300",
@@ -882,6 +906,12 @@
   "create:recipes/create.palettes/smelting/scoria": {
     "criteria": {
       "has_item": "2023-04-02 17:20:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2023-04-21 21:31:35 +0300"
     },
     "done": true
   },
@@ -1172,6 +1202,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2023-04-01 22:36:38 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/rose_gold_ingot_from_block": {
+    "criteria": {
+      "has_item": "2023-04-21 21:24:52 +0300"
     },
     "done": true
   },
@@ -1685,6 +1721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2023-04-21 21:31:35 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/diving_helmet": {
     "criteria": {
       "has_item": "2023-04-01 22:51:58 +0300"
@@ -1700,6 +1742,12 @@
   "create:recipes/create.palettes/gabbro_cobblestone_from_gabbro_stonecutting": {
     "criteria": {
       "has_gabbro": "2023-04-04 22:01:47 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2023-04-21 19:55:06 +0300"
     },
     "done": true
   },
@@ -2130,6 +2178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2023-04-21 21:31:35 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2023-04-01 22:51:58 +0300"
@@ -2145,6 +2199,12 @@
   "minecolonies:recipes/combat/chainmailhelmet": {
     "criteria": {
       "has_iron": "2023-04-01 21:57:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2023-04-21 19:55:06 +0300"
     },
     "done": true
   },
@@ -2277,6 +2337,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2023-04-01 21:56:39 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2023-04-21 21:05:59 +0300"
     },
     "done": true
   },
@@ -2534,6 +2600,12 @@
   "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2023-04-02 18:34:09 +0300"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/blockpresser": {
+    "criteria": {
+      "warp": "2023-04-21 21:05:13 +0300"
     },
     "done": true
   },
@@ -3161,6 +3233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2023-04-21 21:31:38 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-04-02 19:31:48 +0300"
@@ -3206,6 +3284,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2023-04-01 22:36:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2023-04-21 21:31:37 +0300"
     },
     "done": true
   },
