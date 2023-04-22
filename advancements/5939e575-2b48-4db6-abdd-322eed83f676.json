@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "golemania:golemania/recipes/obsidian_golem_tablet": {
+    "criteria": {
+      "has_obsidian": "2023-04-22 17:13:46 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2023-04-01 21:57:43 +0300"
@@ -512,6 +518,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2023-04-01 21:54:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2023-04-22 18:35:08 +0300"
     },
     "done": true
   },
@@ -1313,6 +1325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2023-04-22 17:56:48 +0300"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/part_chest": {
     "criteria": {
       "has_item": "2023-04-02 19:17:35 +0300"
@@ -1340,6 +1358,12 @@
   "create:recipes/create.base/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_item": "2023-04-20 22:10:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2023-04-22 18:35:08 +0300"
     },
     "done": true
   },
@@ -1448,6 +1472,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2023-04-03 21:31:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2023-04-22 17:56:48 +0300"
     },
     "done": true
   },
@@ -1622,6 +1652,12 @@
   "create:recipes/create.palettes/andesite_pillar": {
     "criteria": {
       "has_andesite": "2023-04-01 22:38:25 +0300"
+    },
+    "done": true
+  },
+  "golemania:golemania/recipes/tnt_golem_tablet": {
+    "criteria": {
+      "has_tnt": "2023-04-22 17:13:46 +0300"
     },
     "done": true
   },
@@ -2711,6 +2747,12 @@
     },
     "done": true
   },
+  "golemania:golemania/root": {
+    "criteria": {
+      "crafting_table": "2023-04-22 17:57:29 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_gabbro_from_gabbro_stonecutting": {
     "criteria": {
       "has_gabbro": "2023-04-04 22:01:47 +0300"
@@ -3020,6 +3062,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2023-04-20 22:29:15 +0300"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/grout": {
+    "criteria": {
+      "has_item": "2023-04-22 18:35:08 +0300"
     },
     "done": true
   },
@@ -3579,6 +3627,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2023-04-01 22:36:38 +0300"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_10": {
+    "criteria": {
+      "population_10": "2023-04-22 17:55:10 +0300"
     },
     "done": true
   },

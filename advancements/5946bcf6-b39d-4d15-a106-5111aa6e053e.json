@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "golemania:golemania/recipes/diamond_golem_tablet": {
+    "criteria": {
+      "has_diamond": "2023-04-22 16:48:55 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2023-04-01 22:00:06 +0300"
@@ -1670,6 +1676,12 @@
   "tconstruct:recipes/tconstruct/general/tables/tinkers_chest": {
     "criteria": {
       "has_item": "2023-04-02 01:39:42 +0300"
+    },
+    "done": true
+  },
+  "golemania:golemania/recipes/diamond_patrol_beacon": {
+    "criteria": {
+      "has_diamond": "2023-04-22 16:48:54 +0300"
     },
     "done": true
   },
@@ -3579,6 +3591,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_stone_slab": {
     "criteria": {
       "has_item": "2023-04-02 00:09:19 +0300"
+    },
+    "done": true
+  },
+  "golemania:golemania/recipes/obsidian_golem_tablet": {
+    "criteria": {
+      "has_obsidian": "2023-04-22 16:45:44 +0300"
     },
     "done": true
   },
